@@ -1,0 +1,204 @@
+[
+{
+	"start_time": "Tue Oct  8 23:23:28 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139], "heuristic_cost": [0], "full_cost": [699139]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 40
+}
+]
+[
+[
+{
+	"start_time": "Mon Oct 14 22:32:46 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [698404, 482799], "heuristic_cost": [0, 0], "full_cost": [698404, 482799]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 34
+}
+]
+[
+[
+{
+	"start_time": "Wed Oct 23 22:54:27 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139, 482955], "heuristic_cost": [0, 0], "full_cost": [699139, 482955]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 29
+}
+]
+[
+{
+	"start_time": "Wed Oct 23 22:56:31 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139, 482955], "heuristic_cost": [0, 0], "full_cost": [699139, 482955]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 30
+}
+]
+[
+{
+	"start_time": "Wed Oct 23 22:57:13 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [698404], "heuristic_cost": [0], "full_cost": [698404]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 31
+}
+]
+[
+{
+	"start_time": "Thu Oct 24 15:07:17 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139, 482955], "heuristic_cost": [0, 0], "full_cost": [699139, 482955]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 53
+}
+]
+[
+[
+{
+	"start_time": "Thu Oct 24 18:53:20 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139, 482955], "heuristic_cost": [0, 0], "full_cost": [699139, 482955]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 31
+}
+]
+[
+[
+{
+	"start_time": "Thu Oct 24 18:56:59 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139, 482955], "heuristic_cost": [0, 0], "full_cost": [699139, 482955]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 28
+}
+]
+[
+{
+	"start_time": "Thu Oct 24 18:58:59 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139, 482955], "heuristic_cost": [0, 0], "full_cost": [699139, 482955]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 28
+}
+]
+[
+{
+	"start_time": "Thu Oct 24 18:59:52 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [699139, 482955], "heuristic_cost": [0, 0], "full_cost": [699139, 482955]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 29
+}
+]
