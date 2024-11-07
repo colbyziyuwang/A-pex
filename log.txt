@@ -202,3 +202,27 @@
 	"total_runtime(ms)": 29
 }
 ]
+[
+[
+{
+	"start_time": "Thu Nov  7 14:58:43 2024",
+	"source": 20002,
+	"target": 164983,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.01, 0.01]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 164983, "parent": -1, "cost_until_now": [698783, 621073], "heuristic_cost": [0, 0], "full_cost": [698783, 621073]},
+				{"id": 164983, "parent": -1, "cost_until_now": [708552, 614886], "heuristic_cost": [0, 0], "full_cost": [708552, 614886]},
+				{"id": 164983, "parent": -1, "cost_until_now": [821937, 608583], "heuristic_cost": [0, 0], "full_cost": [821937, 608583]},
+				{"id": 164983, "parent": -1, "cost_until_now": [963996, 603839], "heuristic_cost": [0, 0], "full_cost": [963996, 603839]}
+			],
+			"amount_of_solutions": 4,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 255
+}
+]

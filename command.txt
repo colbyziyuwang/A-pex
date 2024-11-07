@@ -1,0 +1,1 @@
+./bin/multiobj -m resources/ev_dataset_large/USA-road-t.BAY.gr resources/ev_dataset_large/USA-road-d.Bay.gr -s 20002 -g 164983 -e 0.01 --merge RANDOM -a Apex -o output.txt --logging_file log.txt
