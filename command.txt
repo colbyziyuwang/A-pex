@@ -1,1 +1,3 @@
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_charge.gr resources/ev_dataset_small/ev_cost_dist.gr -s 0 -g 25000 -e 0.01 --merge RANDOM -a Apex -o output.txt --logging_file log.txt
+
 ./bin/multiobj -m resources/ev_dataset_large/USA-road-t.BAY.gr resources/ev_dataset_large/USA-road-d.Bay.gr -s 20002 -g 164983 -e 0.01 --merge RANDOM -a Apex -o output.txt --logging_file log.txt

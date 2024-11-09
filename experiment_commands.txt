@@ -1,0 +1,16 @@
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.0001 --merge SMALLER_G2 --logging_file log_SMALLER_G2_e00001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.0001 --merge RANDOM --logging_file log_RANDOM_e00001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.0001 --merge MORE_SLACK --logging_file log_MORE_SLACK_e00001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.001 --merge SMALLER_G2 --logging_file log_SMALLER_G2_e0001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.001 --merge RANDOM --logging_file log_RANDOM_e0001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.001 --merge MORE_SLACK --logging_file log_MORE_SLACK_e0001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.01 --merge SMALLER_G2 --logging_file log_SMALLER_G2_e001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.01 --merge RANDOM --logging_file log_RANDOM_e001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.01 --merge MORE_SLACK --logging_file log_MORE_SLACK_e001.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.05 --merge SMALLER_G2 --logging_file log_SMALLER_G2_e005.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.05 --merge RANDOM --logging_file log_RANDOM_e005.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.05 --merge MORE_SLACK --logging_file log_MORE_SLACK_e005.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.1 --merge SMALLER_G2 --logging_file log_SMALLER_G2_e01.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.1 --merge RANDOM --logging_file log_RANDOM_e01.txt
+./bin/multiobj -m resources/ev_dataset_small/ev_cost_dist.gr resources/ev_dataset_small/ev_cost_charge.gr -s 0 -g 25000 -a Apex -o output.txt -e 0.1 --merge MORE_SLACK --logging_file log_MORE_SLACK_e01.txt
+
