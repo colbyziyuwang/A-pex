@@ -20,14 +20,14 @@ def generate_random_pairs(nodes, num_pairs=100):
     return random_pairs
 
 # Generate pairs
-nodes = [i for i in range(0, 25989)] # 25990 nodes
+nodes = [i for i in range(1, 321270)] 
 random_pairs = generate_random_pairs(nodes, num_pairs=100)
 
 # Print the first 5 pairs to check
 print(random_pairs[:5])
 
-# Save it to a file (resources/ev_dataset_small/)
-dir_path = 'resources/ev_dataset_small'
+# Save it to a file (resources/ev_dataset_large/)
+dir_path = 'resources/ev_dataset_large'
 
 # Save the pairs to a text file
 file_path = os.path.join(dir_path, 'random_pairs.txt')
