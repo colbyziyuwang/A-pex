@@ -26,7 +26,7 @@ def calculate_average_runtime(file_pattern):
     return averages
 
 # Specify the path to the text files
-file_pattern = "results/*.txt"  # Update this path as needed
+file_pattern = "results_large/*.txt"  # Update this path as needed
 averages = calculate_average_runtime(file_pattern)
 
 # Print the average runtime for each file
