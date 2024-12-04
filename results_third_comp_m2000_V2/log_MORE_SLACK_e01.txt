@@ -1,0 +1,540 @@
+[
+{
+	"start_time": "Sat Nov 30 18:44:21 2024",
+	"source": 188514,
+	"target": 130524,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 130524, "parent": -1, "cost_until_now": [1310580, 177, 4650], "heuristic_cost": [0, 0, 0], "full_cost": [1310580, 177, 4650]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1392748, 150, 4329], "heuristic_cost": [0, 0, 0], "full_cost": [1392748, 150, 4329]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1607366, 135, 4142], "heuristic_cost": [0, 0, 0], "full_cost": [1607366, 135, 4142]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1718925, 125, 4025], "heuristic_cost": [0, 0, 0], "full_cost": [1718925, 125, 4025]}
+			],
+			"amount_of_solutions": 4,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 11151
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 18:53:44 2024",
+	"source": 43987,
+	"target": 113767,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 113767, "parent": -1, "cost_until_now": [1512819, 199, 5475], "heuristic_cost": [0, 0, 0], "full_cost": [1512819, 199, 5475]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1710799, 174, 5028], "heuristic_cost": [0, 0, 0], "full_cost": [1710799, 174, 5028]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1762950, 167, 4908], "heuristic_cost": [0, 0, 0], "full_cost": [1762950, 167, 4908]}
+			],
+			"amount_of_solutions": 3,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 5991
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 19:04:19 2024",
+	"source": 175539,
+	"target": 274140,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 274140, "parent": -1, "cost_until_now": [1381498, 149, 4104], "heuristic_cost": [0, 0, 0], "full_cost": [1381498, 149, 4104]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1417920, 137, 3924], "heuristic_cost": [0, 0, 0], "full_cost": [1417920, 137, 3924]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1571545, 123, 3697], "heuristic_cost": [0, 0, 0], "full_cost": [1571545, 123, 3697]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1689710, 112, 3515], "heuristic_cost": [0, 0, 0], "full_cost": [1689710, 112, 3515]}
+			],
+			"amount_of_solutions": 4,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 6574
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 19:34:56 2024",
+	"source": 228177,
+	"target": 313974,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 313974, "parent": -1, "cost_until_now": [1941313, 294, 7819], "heuristic_cost": [0, 0, 0], "full_cost": [1941313, 294, 7819]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2136922, 278, 7548], "heuristic_cost": [0, 0, 0], "full_cost": [2136922, 278, 7548]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2499370, 252, 7287], "heuristic_cost": [0, 0, 0], "full_cost": [2499370, 252, 7287]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2639359, 233, 6813], "heuristic_cost": [0, 0, 0], "full_cost": [2639359, 233, 6813]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3562879, 222, 7106], "heuristic_cost": [0, 0, 0], "full_cost": [3562879, 222, 7106]}
+			],
+			"amount_of_solutions": 5,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 26044
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 19:38:37 2024",
+	"source": 93394,
+	"target": 206325,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 206325, "parent": -1, "cost_until_now": [766977, 122, 3222], "heuristic_cost": [0, 0, 0], "full_cost": [766977, 122, 3222]},
+				{"id": 206325, "parent": -1, "cost_until_now": [833996, 112, 3092], "heuristic_cost": [0, 0, 0], "full_cost": [833996, 112, 3092]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 842
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 19:41:56 2024",
+	"source": 177900,
+	"target": 46915,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 46915, "parent": -1, "cost_until_now": [1211693, 115, 3299], "heuristic_cost": [0, 0, 0], "full_cost": [1211693, 115, 3299]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 965
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 20:14:24 2024",
+	"source": 101881,
+	"target": 261496,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 261496, "parent": -1, "cost_until_now": [1856652, 273, 7365], "heuristic_cost": [0, 0, 0], "full_cost": [1856652, 273, 7365]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1971737, 253, 6956], "heuristic_cost": [0, 0, 0], "full_cost": [1971737, 253, 6956]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 40669
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 20:42:53 2024",
+	"source": 239516,
+	"target": 135350,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 135350, "parent": -1, "cost_until_now": [2052077, 231, 6445], "heuristic_cost": [0, 0, 0], "full_cost": [2052077, 231, 6445]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2202801, 212, 6287], "heuristic_cost": [0, 0, 0], "full_cost": [2202801, 212, 6287]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2493836, 166, 5358], "heuristic_cost": [0, 0, 0], "full_cost": [2493836, 166, 5358]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2573365, 153, 5137], "heuristic_cost": [0, 0, 0], "full_cost": [2573365, 153, 5137]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2973507, 143, 5010], "heuristic_cost": [0, 0, 0], "full_cost": [2973507, 143, 5010]}
+			],
+			"amount_of_solutions": 5,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 20296
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 21:07:37 2024",
+	"source": 263943,
+	"target": 295965,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 295965, "parent": -1, "cost_until_now": [1632584, 259, 6847], "heuristic_cost": [0, 0, 0], "full_cost": [1632584, 259, 6847]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1702984, 239, 6501], "heuristic_cost": [0, 0, 0], "full_cost": [1702984, 239, 6501]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1867409, 206, 5932], "heuristic_cost": [0, 0, 0], "full_cost": [1867409, 206, 5932]}
+			],
+			"amount_of_solutions": 3,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 35483
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 21:39:53 2024",
+	"source": 309791,
+	"target": 81571,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 81571, "parent": -1, "cost_until_now": [2669611, 246, 7078], "heuristic_cost": [0, 0, 0], "full_cost": [2669611, 246, 7078]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2833256, 215, 6430], "heuristic_cost": [0, 0, 0], "full_cost": [2833256, 215, 6430]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3132136, 199, 6479], "heuristic_cost": [0, 0, 0], "full_cost": [3132136, 199, 6479]}
+			],
+			"amount_of_solutions": 3,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 39497
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 21:45:42 2024",
+	"source": 287719,
+	"target": 106657,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 106657, "parent": -1, "cost_until_now": [1826837, 191, 5339], "heuristic_cost": [0, 0, 0], "full_cost": [1826837, 191, 5339]},
+				{"id": 106657, "parent": -1, "cost_until_now": [1995606, 176, 5103], "heuristic_cost": [0, 0, 0], "full_cost": [1995606, 176, 5103]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 3846
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 21:49:06 2024",
+	"source": 173075,
+	"target": 19955,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 19955, "parent": -1, "cost_until_now": [940407, 105, 2810], "heuristic_cost": [0, 0, 0], "full_cost": [940407, 105, 2810]},
+				{"id": 19955, "parent": -1, "cost_until_now": [1013056, 97, 2661], "heuristic_cost": [0, 0, 0], "full_cost": [1013056, 97, 2661]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 1632
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 22:15:55 2024",
+	"source": 279848,
+	"target": 252647,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 252647, "parent": -1, "cost_until_now": [1418356, 212, 5659], "heuristic_cost": [0, 0, 0], "full_cost": [1418356, 212, 5659]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1568090, 177, 4921], "heuristic_cost": [0, 0, 0], "full_cost": [1568090, 177, 4921]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 21070
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 22:24:49 2024",
+	"source": 161549,
+	"target": 39689,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 39689, "parent": -1, "cost_until_now": [810263, 141, 3455], "heuristic_cost": [0, 0, 0], "full_cost": [810263, 141, 3455]},
+				{"id": 39689, "parent": -1, "cost_until_now": [868519, 120, 3139], "heuristic_cost": [0, 0, 0], "full_cost": [868519, 120, 3139]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 5418
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 22:27:37 2024",
+	"source": 320383,
+	"target": 171714,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 171714, "parent": -1, "cost_until_now": [809753, 100, 2636], "heuristic_cost": [0, 0, 0], "full_cost": [809753, 100, 2636]},
+				{"id": 171714, "parent": -1, "cost_until_now": [930240, 84, 2376], "heuristic_cost": [0, 0, 0], "full_cost": [930240, 84, 2376]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 503
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 22:49:55 2024",
+	"source": 307024,
+	"target": 283992,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 283992, "parent": -1, "cost_until_now": [2432104, 260, 7255], "heuristic_cost": [0, 0, 0], "full_cost": [2432104, 260, 7255]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2572089, 242, 7052], "heuristic_cost": [0, 0, 0], "full_cost": [2572089, 242, 7052]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 13497
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 22:53:00 2024",
+	"source": 65447,
+	"target": 183680,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 183680, "parent": -1, "cost_until_now": [1036086, 105, 3015], "heuristic_cost": [0, 0, 0], "full_cost": [1036086, 105, 3015]},
+				{"id": 183680, "parent": -1, "cost_until_now": [1163982, 95, 2900], "heuristic_cost": [0, 0, 0], "full_cost": [1163982, 95, 2900]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 774
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 22:55:40 2024",
+	"source": 182236,
+	"target": 65121,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 65121, "parent": -1, "cost_until_now": [920985, 111, 3121], "heuristic_cost": [0, 0, 0], "full_cost": [920985, 111, 3121]},
+				{"id": 65121, "parent": -1, "cost_until_now": [1090783, 93, 2699], "heuristic_cost": [0, 0, 0], "full_cost": [1090783, 93, 2699]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 465
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 23:31:31 2024",
+	"source": 49278,
+	"target": 225916,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 225916, "parent": -1, "cost_until_now": [1224509, 242, 6035], "heuristic_cost": [0, 0, 0], "full_cost": [1224509, 242, 6035]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1331761, 216, 5568], "heuristic_cost": [0, 0, 0], "full_cost": [1331761, 216, 5568]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1387225, 202, 5231], "heuristic_cost": [0, 0, 0], "full_cost": [1387225, 202, 5231]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1656910, 163, 4500], "heuristic_cost": [0, 0, 0], "full_cost": [1656910, 163, 4500]}
+			],
+			"amount_of_solutions": 4,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 50063
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 23:35:00 2024",
+	"source": 480,
+	"target": 167323,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 167323, "parent": -1, "cost_until_now": [295779, 62, 1428], "heuristic_cost": [0, 0, 0], "full_cost": [295779, 62, 1428]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 568
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 23:37:45 2024",
+	"source": 63163,
+	"target": 88394,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 88394, "parent": -1, "cost_until_now": [875760, 139, 3639], "heuristic_cost": [0, 0, 0], "full_cost": [875760, 139, 3639]}
+			],
+			"amount_of_solutions": 1,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 217
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 23:50:20 2024",
+	"source": 119184,
+	"target": 181655,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 181655, "parent": -1, "cost_until_now": [1407634, 150, 4422], "heuristic_cost": [0, 0, 0], "full_cost": [1407634, 150, 4422]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1553791, 133, 4085], "heuristic_cost": [0, 0, 0], "full_cost": [1553791, 133, 4085]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1594863, 123, 3913], "heuristic_cost": [0, 0, 0], "full_cost": [1594863, 123, 3913]}
+			],
+			"amount_of_solutions": 3,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 14049
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 23:52:55 2024",
+	"source": 184377,
+	"target": 120014,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 120014, "parent": -1, "cost_until_now": [207194, 34, 894], "heuristic_cost": [0, 0, 0], "full_cost": [207194, 34, 894]},
+				{"id": 120014, "parent": -1, "cost_until_now": [283509, 31, 909], "heuristic_cost": [0, 0, 0], "full_cost": [283509, 31, 909]},
+				{"id": 120014, "parent": -1, "cost_until_now": [322097, 27, 831], "heuristic_cost": [0, 0, 0], "full_cost": [322097, 27, 831]},
+				{"id": 120014, "parent": -1, "cost_until_now": [422774, 24, 857], "heuristic_cost": [0, 0, 0], "full_cost": [422774, 24, 857]}
+			],
+			"amount_of_solutions": 4,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 120
+}
+]
+[
+{
+	"start_time": "Sun Dec  1 00:18:07 2024",
+	"source": 248922,
+	"target": 105368,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 105368, "parent": -1, "cost_until_now": [1469572, 254, 6523], "heuristic_cost": [0, 0, 0], "full_cost": [1469572, 254, 6523]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1529999, 233, 6221], "heuristic_cost": [0, 0, 0], "full_cost": [1529999, 233, 6221]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 20083
+}
+]
+[
+{
+	"start_time": "Sun Dec  1 00:35:02 2024",
+	"source": 188267,
+	"target": 80283,
+	"search_info": {
+			"name": "Apex-ms",
+			"eps": [0.1, 0.1, 0.1]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 80283, "parent": -1, "cost_until_now": [2342251, 238, 6666], "heuristic_cost": [0, 0, 0], "full_cost": [2342251, 238, 6666]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2500374, 209, 6162], "heuristic_cost": [0, 0, 0], "full_cost": [2500374, 209, 6162]}
+			],
+			"amount_of_solutions": 2,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 20511
+}
+]

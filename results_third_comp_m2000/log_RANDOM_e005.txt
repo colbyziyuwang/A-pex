@@ -1,0 +1,1116 @@
+[
+{
+	"start_time": "Sat Nov 30 10:50:03 2024",
+	"source": 188514,
+	"target": 130524,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 130524, "parent": -1, "cost_until_now": [1266542, 203, 7108], "heuristic_cost": [0, 0, 0], "full_cost": [1266542, 203, 7108]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1284953, 194, 6324], "heuristic_cost": [0, 0, 0], "full_cost": [1284953, 194, 6324]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1295194, 186, 6183], "heuristic_cost": [0, 0, 0], "full_cost": [1295194, 186, 6183]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1306984, 182, 6114], "heuristic_cost": [0, 0, 0], "full_cost": [1306984, 182, 6114]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1295030, 197, 6425], "heuristic_cost": [0, 0, 0], "full_cost": [1295030, 197, 6425]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1333503, 175, 6065], "heuristic_cost": [0, 0, 0], "full_cost": [1333503, 175, 6065]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1364273, 171, 6036], "heuristic_cost": [0, 0, 0], "full_cost": [1364273, 171, 6036]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1374268, 169, 6013], "heuristic_cost": [0, 0, 0], "full_cost": [1374268, 169, 6013]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1378158, 167, 5977], "heuristic_cost": [0, 0, 0], "full_cost": [1378158, 167, 5977]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1380639, 166, 5965], "heuristic_cost": [0, 0, 0], "full_cost": [1380639, 166, 5965]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1391344, 163, 5794], "heuristic_cost": [0, 0, 0], "full_cost": [1391344, 163, 5794]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1393974, 163, 5929], "heuristic_cost": [0, 0, 0], "full_cost": [1393974, 163, 5929]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1398460, 161, 5809], "heuristic_cost": [0, 0, 0], "full_cost": [1398460, 161, 5809]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1407979, 155, 5660], "heuristic_cost": [0, 0, 0], "full_cost": [1407979, 155, 5660]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1422728, 149, 5577], "heuristic_cost": [0, 0, 0], "full_cost": [1422728, 149, 5577]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1437139, 148, 5565], "heuristic_cost": [0, 0, 0], "full_cost": [1437139, 148, 5565]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1467760, 149, 5511], "heuristic_cost": [0, 0, 0], "full_cost": [1467760, 149, 5511]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1451217, 147, 5549], "heuristic_cost": [0, 0, 0], "full_cost": [1451217, 147, 5549]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1482171, 148, 5499], "heuristic_cost": [0, 0, 0], "full_cost": [1482171, 148, 5499]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1488874, 146, 5481], "heuristic_cost": [0, 0, 0], "full_cost": [1488874, 146, 5481]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1500224, 144, 5451], "heuristic_cost": [0, 0, 0], "full_cost": [1500224, 144, 5451]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1503285, 145, 5469], "heuristic_cost": [0, 0, 0], "full_cost": [1503285, 145, 5469]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1514635, 143, 5439], "heuristic_cost": [0, 0, 0], "full_cost": [1514635, 143, 5439]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1527005, 142, 5412], "heuristic_cost": [0, 0, 0], "full_cost": [1527005, 142, 5412]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1543475, 145, 5370], "heuristic_cost": [0, 0, 0], "full_cost": [1543475, 145, 5370]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1541416, 141, 5400], "heuristic_cost": [0, 0, 0], "full_cost": [1541416, 141, 5400]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1553302, 148, 5202], "heuristic_cost": [0, 0, 0], "full_cost": [1553302, 148, 5202]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1555772, 147, 5200], "heuristic_cost": [0, 0, 0], "full_cost": [1555772, 147, 5200]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1559181, 145, 5193], "heuristic_cost": [0, 0, 0], "full_cost": [1559181, 145, 5193]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1560800, 144, 5147], "heuristic_cost": [0, 0, 0], "full_cost": [1560800, 144, 5147]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1562892, 143, 5135], "heuristic_cost": [0, 0, 0], "full_cost": [1562892, 143, 5135]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1565485, 142, 5106], "heuristic_cost": [0, 0, 0], "full_cost": [1565485, 142, 5106]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1568517, 141, 5086], "heuristic_cost": [0, 0, 0], "full_cost": [1568517, 141, 5086]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1570563, 140, 5082], "heuristic_cost": [0, 0, 0], "full_cost": [1570563, 140, 5082]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1572239, 139, 5057], "heuristic_cost": [0, 0, 0], "full_cost": [1572239, 139, 5057]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1576890, 138, 5065], "heuristic_cost": [0, 0, 0], "full_cost": [1576890, 138, 5065]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1586350, 137, 5118], "heuristic_cost": [0, 0, 0], "full_cost": [1586350, 137, 5118]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1600373, 136, 5101], "heuristic_cost": [0, 0, 0], "full_cost": [1600373, 136, 5101]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1611654, 135, 5072], "heuristic_cost": [0, 0, 0], "full_cost": [1611654, 135, 5072]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1626065, 134, 5060], "heuristic_cost": [0, 0, 0], "full_cost": [1626065, 134, 5060]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1630874, 135, 5016], "heuristic_cost": [0, 0, 0], "full_cost": [1630874, 135, 5016]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1639663, 134, 5045], "heuristic_cost": [0, 0, 0], "full_cost": [1639663, 134, 5045]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1645285, 134, 5004], "heuristic_cost": [0, 0, 0], "full_cost": [1645285, 134, 5004]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1649123, 133, 5098], "heuristic_cost": [0, 0, 0], "full_cost": [1649123, 133, 5098]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1654074, 133, 5033], "heuristic_cost": [0, 0, 0], "full_cost": [1654074, 133, 5033]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1663549, 132, 5016], "heuristic_cost": [0, 0, 0], "full_cost": [1663549, 132, 5016]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1672621, 131, 5064], "heuristic_cost": [0, 0, 0], "full_cost": [1672621, 131, 5064]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1677960, 131, 5004], "heuristic_cost": [0, 0, 0], "full_cost": [1677960, 131, 5004]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1682419, 135, 4975], "heuristic_cost": [0, 0, 0], "full_cost": [1682419, 135, 4975]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1687032, 130, 5052], "heuristic_cost": [0, 0, 0], "full_cost": [1687032, 130, 5052]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1696830, 134, 4963], "heuristic_cost": [0, 0, 0], "full_cost": [1696830, 134, 4963]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1698767, 133, 4976], "heuristic_cost": [0, 0, 0], "full_cost": [1698767, 133, 4976]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1709476, 130, 4994], "heuristic_cost": [0, 0, 0], "full_cost": [1709476, 130, 4994]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1721331, 130, 4984], "heuristic_cost": [0, 0, 0], "full_cost": [1721331, 130, 4984]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1718548, 129, 5042], "heuristic_cost": [0, 0, 0], "full_cost": [1718548, 129, 5042]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1715081, 134, 4950], "heuristic_cost": [0, 0, 0], "full_cost": [1715081, 134, 4950]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1730403, 129, 5032], "heuristic_cost": [0, 0, 0], "full_cost": [1730403, 129, 5032]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1729492, 133, 4938], "heuristic_cost": [0, 0, 0], "full_cost": [1729492, 133, 4938]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1729626, 132, 4963], "heuristic_cost": [0, 0, 0], "full_cost": [1729626, 132, 4963]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1749721, 129, 4989], "heuristic_cost": [0, 0, 0], "full_cost": [1749721, 129, 4989]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1751953, 130, 4819], "heuristic_cost": [0, 0, 0], "full_cost": [1751953, 130, 4819]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1758793, 128, 5037], "heuristic_cost": [0, 0, 0], "full_cost": [1758793, 128, 5037]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1775824, 128, 4860], "heuristic_cost": [0, 0, 0], "full_cost": [1775824, 128, 4860]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1790453, 127, 5083], "heuristic_cost": [0, 0, 0], "full_cost": [1790453, 127, 5083]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1806283, 127, 4862], "heuristic_cost": [0, 0, 0], "full_cost": [1806283, 127, 4862]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1830582, 125, 4822], "heuristic_cost": [0, 0, 0], "full_cost": [1830582, 125, 4822]},
+				{"id": 130524, "parent": -1, "cost_until_now": [1875159, 124, 4895], "heuristic_cost": [0, 0, 0], "full_cost": [1875159, 124, 4895]}
+			],
+			"amount_of_solutions": 67,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 24262
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 11:07:33 2024",
+	"source": 43987,
+	"target": 113767,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 113767, "parent": -1, "cost_until_now": [1488078, 213, 7235], "heuristic_cost": [0, 0, 0], "full_cost": [1488078, 213, 7235]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1527237, 206, 7173], "heuristic_cost": [0, 0, 0], "full_cost": [1527237, 206, 7173]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1544685, 204, 7176], "heuristic_cost": [0, 0, 0], "full_cost": [1544685, 204, 7176]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1576325, 211, 6981], "heuristic_cost": [0, 0, 0], "full_cost": [1576325, 211, 6981]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1585657, 208, 6941], "heuristic_cost": [0, 0, 0], "full_cost": [1585657, 208, 6941]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1587928, 206, 6910], "heuristic_cost": [0, 0, 0], "full_cost": [1587928, 206, 6910]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1588442, 205, 6884], "heuristic_cost": [0, 0, 0], "full_cost": [1588442, 205, 6884]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1590362, 204, 6879], "heuristic_cost": [0, 0, 0], "full_cost": [1590362, 204, 6879]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1592958, 203, 6861], "heuristic_cost": [0, 0, 0], "full_cost": [1592958, 203, 6861]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1594756, 202, 6891], "heuristic_cost": [0, 0, 0], "full_cost": [1594756, 202, 6891]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1595736, 201, 6865], "heuristic_cost": [0, 0, 0], "full_cost": [1595736, 201, 6865]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1596280, 197, 6642], "heuristic_cost": [0, 0, 0], "full_cost": [1596280, 197, 6642]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1598551, 195, 6611], "heuristic_cost": [0, 0, 0], "full_cost": [1598551, 195, 6611]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1600845, 194, 6600], "heuristic_cost": [0, 0, 0], "full_cost": [1600845, 194, 6600]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1608611, 193, 6604], "heuristic_cost": [0, 0, 0], "full_cost": [1608611, 193, 6604]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1616491, 192, 6556], "heuristic_cost": [0, 0, 0], "full_cost": [1616491, 192, 6556]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1628361, 191, 6557], "heuristic_cost": [0, 0, 0], "full_cost": [1628361, 191, 6557]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1631143, 191, 6696], "heuristic_cost": [0, 0, 0], "full_cost": [1631143, 191, 6696]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1638909, 190, 6700], "heuristic_cost": [0, 0, 0], "full_cost": [1638909, 190, 6700]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1653455, 180, 6384], "heuristic_cost": [0, 0, 0], "full_cost": [1653455, 180, 6384]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1658220, 179, 6265], "heuristic_cost": [0, 0, 0], "full_cost": [1658220, 179, 6265]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1669607, 177, 6371], "heuristic_cost": [0, 0, 0], "full_cost": [1669607, 177, 6371]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1695923, 178, 6217], "heuristic_cost": [0, 0, 0], "full_cost": [1695923, 178, 6217]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1707310, 176, 6323], "heuristic_cost": [0, 0, 0], "full_cost": [1707310, 176, 6323]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1724670, 174, 6130], "heuristic_cost": [0, 0, 0], "full_cost": [1724670, 174, 6130]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1732436, 173, 6134], "heuristic_cost": [0, 0, 0], "full_cost": [1732436, 173, 6134]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1740445, 172, 6187], "heuristic_cost": [0, 0, 0], "full_cost": [1740445, 172, 6187]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1730319, 174, 6072], "heuristic_cost": [0, 0, 0], "full_cost": [1730319, 174, 6072]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1742739, 171, 6176], "heuristic_cost": [0, 0, 0], "full_cost": [1742739, 171, 6176]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1749868, 173, 5982], "heuristic_cost": [0, 0, 0], "full_cost": [1749868, 173, 5982]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1757634, 172, 5986], "heuristic_cost": [0, 0, 0], "full_cost": [1757634, 172, 5986]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1750505, 170, 6180], "heuristic_cost": [0, 0, 0], "full_cost": [1750505, 170, 6180]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1768623, 170, 6000], "heuristic_cost": [0, 0, 0], "full_cost": [1768623, 170, 6000]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1790157, 169, 5999], "heuristic_cost": [0, 0, 0], "full_cost": [1790157, 169, 5999]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1801549, 168, 6017], "heuristic_cost": [0, 0, 0], "full_cost": [1801549, 168, 6017]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1844633, 163, 5855], "heuristic_cost": [0, 0, 0], "full_cost": [1844633, 163, 5855]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1835471, 166, 5982], "heuristic_cost": [0, 0, 0], "full_cost": [1835471, 166, 5982]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1866167, 162, 5854], "heuristic_cost": [0, 0, 0], "full_cost": [1866167, 162, 5854]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1884025, 162, 5825], "heuristic_cost": [0, 0, 0], "full_cost": [1884025, 162, 5825]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1877559, 161, 5872], "heuristic_cost": [0, 0, 0], "full_cost": [1877559, 161, 5872]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1905559, 161, 5824], "heuristic_cost": [0, 0, 0], "full_cost": [1905559, 161, 5824]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1916951, 160, 5842], "heuristic_cost": [0, 0, 0], "full_cost": [1916951, 160, 5842]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1947312, 159, 5916], "heuristic_cost": [0, 0, 0], "full_cost": [1947312, 159, 5916]},
+				{"id": 113767, "parent": -1, "cost_until_now": [1968165, 161, 5695], "heuristic_cost": [0, 0, 0], "full_cost": [1968165, 161, 5695]},
+				{"id": 113767, "parent": -1, "cost_until_now": [2001091, 159, 5712], "heuristic_cost": [0, 0, 0], "full_cost": [2001091, 159, 5712]}
+			],
+			"amount_of_solutions": 45,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 11291
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 11:22:28 2024",
+	"source": 175539,
+	"target": 274140,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 274140, "parent": -1, "cost_until_now": [1334301, 161, 5401], "heuristic_cost": [0, 0, 0], "full_cost": [1334301, 161, 5401]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1367132, 154, 5189], "heuristic_cost": [0, 0, 0], "full_cost": [1367132, 154, 5189]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1393472, 152, 5419], "heuristic_cost": [0, 0, 0], "full_cost": [1393472, 152, 5419]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1409298, 148, 5360], "heuristic_cost": [0, 0, 0], "full_cost": [1409298, 148, 5360]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1429143, 142, 5152], "heuristic_cost": [0, 0, 0], "full_cost": [1429143, 142, 5152]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1433058, 140, 5131], "heuristic_cost": [0, 0, 0], "full_cost": [1433058, 140, 5131]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1441089, 139, 5161], "heuristic_cost": [0, 0, 0], "full_cost": [1441089, 139, 5161]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1470436, 144, 4915], "heuristic_cost": [0, 0, 0], "full_cost": [1470436, 144, 4915]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1455463, 138, 5192], "heuristic_cost": [0, 0, 0], "full_cost": [1455463, 138, 5192]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1486582, 133, 4677], "heuristic_cost": [0, 0, 0], "full_cost": [1486582, 133, 4677]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1504492, 136, 4669], "heuristic_cost": [0, 0, 0], "full_cost": [1504492, 136, 4669]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1532294, 131, 4620], "heuristic_cost": [0, 0, 0], "full_cost": [1532294, 131, 4620]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1549973, 132, 4521], "heuristic_cost": [0, 0, 0], "full_cost": [1549973, 132, 4521]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1583670, 121, 4273], "heuristic_cost": [0, 0, 0], "full_cost": [1583670, 121, 4273]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1651711, 119, 4229], "heuristic_cost": [0, 0, 0], "full_cost": [1651711, 119, 4229]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1661591, 117, 4188], "heuristic_cost": [0, 0, 0], "full_cost": [1661591, 117, 4188]},
+				{"id": 274140, "parent": -1, "cost_until_now": [1688978, 116, 4174], "heuristic_cost": [0, 0, 0], "full_cost": [1688978, 116, 4174]}
+			],
+			"amount_of_solutions": 17,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 11436
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 11:51:23 2024",
+	"source": 228177,
+	"target": 313974,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 313974, "parent": -1, "cost_until_now": [1953151, 299, 9973], "heuristic_cost": [0, 0, 0], "full_cost": [1953151, 299, 9973]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2009705, 283, 9798], "heuristic_cost": [0, 0, 0], "full_cost": [2009705, 283, 9798]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2091377, 281, 9763], "heuristic_cost": [0, 0, 0], "full_cost": [2091377, 281, 9763]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2206810, 277, 9816], "heuristic_cost": [0, 0, 0], "full_cost": [2206810, 277, 9816]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2245614, 272, 9776], "heuristic_cost": [0, 0, 0], "full_cost": [2245614, 272, 9776]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2257330, 271, 9799], "heuristic_cost": [0, 0, 0], "full_cost": [2257330, 271, 9799]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2292958, 270, 9773], "heuristic_cost": [0, 0, 0], "full_cost": [2292958, 270, 9773]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2327944, 269, 9727], "heuristic_cost": [0, 0, 0], "full_cost": [2327944, 269, 9727]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2333409, 268, 9729], "heuristic_cost": [0, 0, 0], "full_cost": [2333409, 268, 9729]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2329898, 270, 9373], "heuristic_cost": [0, 0, 0], "full_cost": [2329898, 270, 9373]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2402817, 267, 9782], "heuristic_cost": [0, 0, 0], "full_cost": [2402817, 267, 9782]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2444548, 267, 9006], "heuristic_cost": [0, 0, 0], "full_cost": [2444548, 267, 9006]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2446556, 264, 8911], "heuristic_cost": [0, 0, 0], "full_cost": [2446556, 264, 8911]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2449825, 263, 8915], "heuristic_cost": [0, 0, 0], "full_cost": [2449825, 263, 8915]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2451170, 261, 8837], "heuristic_cost": [0, 0, 0], "full_cost": [2451170, 261, 8837]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2451833, 260, 8820], "heuristic_cost": [0, 0, 0], "full_cost": [2451833, 260, 8820]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2452514, 259, 8825], "heuristic_cost": [0, 0, 0], "full_cost": [2452514, 259, 8825]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2458775, 256, 8713], "heuristic_cost": [0, 0, 0], "full_cost": [2458775, 256, 8713]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2471448, 254, 8679], "heuristic_cost": [0, 0, 0], "full_cost": [2471448, 254, 8679]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2484720, 252, 8650], "heuristic_cost": [0, 0, 0], "full_cost": [2484720, 252, 8650]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2511761, 250, 8606], "heuristic_cost": [0, 0, 0], "full_cost": [2511761, 250, 8606]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2519340, 248, 8563], "heuristic_cost": [0, 0, 0], "full_cost": [2519340, 248, 8563]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2534598, 247, 8545], "heuristic_cost": [0, 0, 0], "full_cost": [2534598, 247, 8545]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2552261, 246, 8480], "heuristic_cost": [0, 0, 0], "full_cost": [2552261, 246, 8480]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2558990, 245, 8507], "heuristic_cost": [0, 0, 0], "full_cost": [2558990, 245, 8507]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2576728, 244, 8514], "heuristic_cost": [0, 0, 0], "full_cost": [2576728, 244, 8514]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2591911, 243, 8424], "heuristic_cost": [0, 0, 0], "full_cost": [2591911, 243, 8424]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2606960, 242, 8446], "heuristic_cost": [0, 0, 0], "full_cost": [2606960, 242, 8446]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2616378, 241, 8458], "heuristic_cost": [0, 0, 0], "full_cost": [2616378, 241, 8458]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2648667, 236, 8392], "heuristic_cost": [0, 0, 0], "full_cost": [2648667, 236, 8392]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2780925, 234, 8449], "heuristic_cost": [0, 0, 0], "full_cost": [2780925, 234, 8449]},
+				{"id": 313974, "parent": -1, "cost_until_now": [2975261, 233, 8489], "heuristic_cost": [0, 0, 0], "full_cost": [2975261, 233, 8489]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3038860, 231, 8690], "heuristic_cost": [0, 0, 0], "full_cost": [3038860, 231, 8690]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3441691, 231, 8680], "heuristic_cost": [0, 0, 0], "full_cost": [3441691, 231, 8680]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3454532, 229, 8683], "heuristic_cost": [0, 0, 0], "full_cost": [3454532, 229, 8683]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3460933, 231, 8610], "heuristic_cost": [0, 0, 0], "full_cost": [3460933, 231, 8610]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3471963, 229, 8603], "heuristic_cost": [0, 0, 0], "full_cost": [3471963, 229, 8603]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3472195, 228, 8618], "heuristic_cost": [0, 0, 0], "full_cost": [3472195, 228, 8618]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3473991, 230, 8588], "heuristic_cost": [0, 0, 0], "full_cost": [3473991, 230, 8588]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3481573, 227, 8639], "heuristic_cost": [0, 0, 0], "full_cost": [3481573, 227, 8639]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3487221, 228, 8585], "heuristic_cost": [0, 0, 0], "full_cost": [3487221, 228, 8585]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3487453, 227, 8600], "heuristic_cost": [0, 0, 0], "full_cost": [3487453, 227, 8600]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3500705, 227, 8586], "heuristic_cost": [0, 0, 0], "full_cost": [3500705, 227, 8586]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3494182, 226, 8627], "heuristic_cost": [0, 0, 0], "full_cost": [3494182, 226, 8627]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3500473, 228, 8571], "heuristic_cost": [0, 0, 0], "full_cost": [3500473, 228, 8571]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3511613, 226, 8547], "heuristic_cost": [0, 0, 0], "full_cost": [3511613, 226, 8547]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3511845, 225, 8562], "heuristic_cost": [0, 0, 0], "full_cost": [3511845, 225, 8562]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3527103, 224, 8544], "heuristic_cost": [0, 0, 0], "full_cost": [3527103, 224, 8544]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3526871, 225, 8529], "heuristic_cost": [0, 0, 0], "full_cost": [3526871, 225, 8529]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3536312, 223, 8596], "heuristic_cost": [0, 0, 0], "full_cost": [3536312, 223, 8596]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3546424, 225, 8519], "heuristic_cost": [0, 0, 0], "full_cost": [3546424, 225, 8519]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3546656, 224, 8534], "heuristic_cost": [0, 0, 0], "full_cost": [3546656, 224, 8534]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3559265, 223, 8522], "heuristic_cost": [0, 0, 0], "full_cost": [3559265, 223, 8522]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3559033, 224, 8507], "heuristic_cost": [0, 0, 0], "full_cost": [3559033, 224, 8507]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3568474, 222, 8574], "heuristic_cost": [0, 0, 0], "full_cost": [3568474, 222, 8574]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3583711, 223, 8500], "heuristic_cost": [0, 0, 0], "full_cost": [3583711, 223, 8500]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3583943, 222, 8515], "heuristic_cost": [0, 0, 0], "full_cost": [3583943, 222, 8515]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3595801, 221, 8561], "heuristic_cost": [0, 0, 0], "full_cost": [3595801, 221, 8561]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3624182, 219, 8428], "heuristic_cost": [0, 0, 0], "full_cost": [3624182, 219, 8428]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3816798, 220, 8380], "heuristic_cost": [0, 0, 0], "full_cost": [3816798, 220, 8380]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3833261, 218, 8415], "heuristic_cost": [0, 0, 0], "full_cost": [3833261, 218, 8415]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3840771, 220, 8367], "heuristic_cost": [0, 0, 0], "full_cost": [3840771, 220, 8367]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3841003, 219, 8382], "heuristic_cost": [0, 0, 0], "full_cost": [3841003, 219, 8382]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3845870, 217, 8403], "heuristic_cost": [0, 0, 0], "full_cost": [3845870, 217, 8403]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3853380, 219, 8355], "heuristic_cost": [0, 0, 0], "full_cost": [3853380, 219, 8355]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3853612, 218, 8370], "heuristic_cost": [0, 0, 0], "full_cost": [3853612, 218, 8370]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3855079, 216, 8455], "heuristic_cost": [0, 0, 0], "full_cost": [3855079, 216, 8455]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3873197, 216, 8390], "heuristic_cost": [0, 0, 0], "full_cost": [3873197, 216, 8390]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3882406, 215, 8442], "heuristic_cost": [0, 0, 0], "full_cost": [3882406, 215, 8442]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3880707, 218, 8342], "heuristic_cost": [0, 0, 0], "full_cost": [3880707, 218, 8342]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3880939, 217, 8357], "heuristic_cost": [0, 0, 0], "full_cost": [3880939, 217, 8357]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3900169, 215, 8356], "heuristic_cost": [0, 0, 0], "full_cost": [3900169, 215, 8356]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3900401, 214, 8371], "heuristic_cost": [0, 0, 0], "full_cost": [3900401, 214, 8371]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3932821, 214, 8331], "heuristic_cost": [0, 0, 0], "full_cost": [3932821, 214, 8331]},
+				{"id": 313974, "parent": -1, "cost_until_now": [3944679, 213, 8377], "heuristic_cost": [0, 0, 0], "full_cost": [3944679, 213, 8377]},
+				{"id": 313974, "parent": -1, "cost_until_now": [4038754, 211, 8334], "heuristic_cost": [0, 0, 0], "full_cost": [4038754, 211, 8334]}
+			],
+			"amount_of_solutions": 76,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 42386
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 11:56:42 2024",
+	"source": 93394,
+	"target": 206325,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 206325, "parent": -1, "cost_until_now": [768380, 130, 4395], "heuristic_cost": [0, 0, 0], "full_cost": [768380, 130, 4395]},
+				{"id": 206325, "parent": -1, "cost_until_now": [779938, 126, 4044], "heuristic_cost": [0, 0, 0], "full_cost": [779938, 126, 4044]},
+				{"id": 206325, "parent": -1, "cost_until_now": [776965, 134, 4329], "heuristic_cost": [0, 0, 0], "full_cost": [776965, 134, 4329]},
+				{"id": 206325, "parent": -1, "cost_until_now": [798397, 120, 3953], "heuristic_cost": [0, 0, 0], "full_cost": [798397, 120, 3953]},
+				{"id": 206325, "parent": -1, "cost_until_now": [815770, 118, 3907], "heuristic_cost": [0, 0, 0], "full_cost": [815770, 118, 3907]},
+				{"id": 206325, "parent": -1, "cost_until_now": [826553, 116, 3922], "heuristic_cost": [0, 0, 0], "full_cost": [826553, 116, 3922]},
+				{"id": 206325, "parent": -1, "cost_until_now": [840358, 111, 3749], "heuristic_cost": [0, 0, 0], "full_cost": [840358, 111, 3749]},
+				{"id": 206325, "parent": -1, "cost_until_now": [895281, 107, 4001], "heuristic_cost": [0, 0, 0], "full_cost": [895281, 107, 4001]}
+			],
+			"amount_of_solutions": 8,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 2125
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 12:00:22 2024",
+	"source": 177900,
+	"target": 46915,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 46915, "parent": -1, "cost_until_now": [1150060, 133, 4787], "heuristic_cost": [0, 0, 0], "full_cost": [1150060, 133, 4787]},
+				{"id": 46915, "parent": -1, "cost_until_now": [1188575, 126, 4519], "heuristic_cost": [0, 0, 0], "full_cost": [1188575, 126, 4519]},
+				{"id": 46915, "parent": -1, "cost_until_now": [1209348, 120, 4498], "heuristic_cost": [0, 0, 0], "full_cost": [1209348, 120, 4498]},
+				{"id": 46915, "parent": -1, "cost_until_now": [1180948, 130, 4571], "heuristic_cost": [0, 0, 0], "full_cost": [1180948, 130, 4571]},
+				{"id": 46915, "parent": -1, "cost_until_now": [1223710, 118, 4573], "heuristic_cost": [0, 0, 0], "full_cost": [1223710, 118, 4573]},
+				{"id": 46915, "parent": -1, "cost_until_now": [1216890, 119, 4486], "heuristic_cost": [0, 0, 0], "full_cost": [1216890, 119, 4486]},
+				{"id": 46915, "parent": -1, "cost_until_now": [1242239, 116, 4619], "heuristic_cost": [0, 0, 0], "full_cost": [1242239, 116, 4619]}
+			],
+			"amount_of_solutions": 7,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 2047
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 12:31:47 2024",
+	"source": 101881,
+	"target": 261496,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 261496, "parent": -1, "cost_until_now": [1760070, 339, 10889], "heuristic_cost": [0, 0, 0], "full_cost": [1760070, 339, 10889]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1800978, 333, 10858], "heuristic_cost": [0, 0, 0], "full_cost": [1800978, 333, 10858]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1775544, 364, 11769], "heuristic_cost": [0, 0, 0], "full_cost": [1775544, 364, 11769]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1828326, 298, 10030], "heuristic_cost": [0, 0, 0], "full_cost": [1828326, 298, 10030]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1836048, 295, 10010], "heuristic_cost": [0, 0, 0], "full_cost": [1836048, 295, 10010]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1874548, 282, 9714], "heuristic_cost": [0, 0, 0], "full_cost": [1874548, 282, 9714]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1893733, 278, 9687], "heuristic_cost": [0, 0, 0], "full_cost": [1893733, 278, 9687]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1910368, 273, 9647], "heuristic_cost": [0, 0, 0], "full_cost": [1910368, 273, 9647]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1922364, 265, 9399], "heuristic_cost": [0, 0, 0], "full_cost": [1922364, 265, 9399]},
+				{"id": 261496, "parent": -1, "cost_until_now": [1979363, 262, 9360], "heuristic_cost": [0, 0, 0], "full_cost": [1979363, 262, 9360]},
+				{"id": 261496, "parent": -1, "cost_until_now": [2013607, 259, 9506], "heuristic_cost": [0, 0, 0], "full_cost": [2013607, 259, 9506]},
+				{"id": 261496, "parent": -1, "cost_until_now": [2038760, 261, 9284], "heuristic_cost": [0, 0, 0], "full_cost": [2038760, 261, 9284]},
+				{"id": 261496, "parent": -1, "cost_until_now": [2061409, 252, 9083], "heuristic_cost": [0, 0, 0], "full_cost": [2061409, 252, 9083]},
+				{"id": 261496, "parent": -1, "cost_until_now": [2089547, 249, 9093], "heuristic_cost": [0, 0, 0], "full_cost": [2089547, 249, 9093]},
+				{"id": 261496, "parent": -1, "cost_until_now": [2146546, 246, 9054], "heuristic_cost": [0, 0, 0], "full_cost": [2146546, 246, 9054]},
+				{"id": 261496, "parent": -1, "cost_until_now": [2155218, 244, 8963], "heuristic_cost": [0, 0, 0], "full_cost": [2155218, 244, 8963]},
+				{"id": 261496, "parent": -1, "cost_until_now": [2244278, 241, 9184], "heuristic_cost": [0, 0, 0], "full_cost": [2244278, 241, 9184]}
+			],
+			"amount_of_solutions": 17,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 80507
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 13:02:52 2024",
+	"source": 239516,
+	"target": 135350,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 135350, "parent": -1, "cost_until_now": [1973515, 278, 9172], "heuristic_cost": [0, 0, 0], "full_cost": [1973515, 278, 9172]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2023024, 250, 8580], "heuristic_cost": [0, 0, 0], "full_cost": [2023024, 250, 8580]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2053292, 240, 8212], "heuristic_cost": [0, 0, 0], "full_cost": [2053292, 240, 8212]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2082930, 238, 8177], "heuristic_cost": [0, 0, 0], "full_cost": [2082930, 238, 8177]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2108026, 235, 8035], "heuristic_cost": [0, 0, 0], "full_cost": [2108026, 235, 8035]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2111770, 232, 7987], "heuristic_cost": [0, 0, 0], "full_cost": [2111770, 232, 7987]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2137099, 227, 8003], "heuristic_cost": [0, 0, 0], "full_cost": [2137099, 227, 8003]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2181009, 228, 7971], "heuristic_cost": [0, 0, 0], "full_cost": [2181009, 228, 7971]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2194742, 223, 7943], "heuristic_cost": [0, 0, 0], "full_cost": [2194742, 223, 7943]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2196918, 222, 7930], "heuristic_cost": [0, 0, 0], "full_cost": [2196918, 222, 7930]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2250129, 219, 7855], "heuristic_cost": [0, 0, 0], "full_cost": [2250129, 219, 7855]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2252305, 218, 7842], "heuristic_cost": [0, 0, 0], "full_cost": [2252305, 218, 7842]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2282355, 216, 7770], "heuristic_cost": [0, 0, 0], "full_cost": [2282355, 216, 7770]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2310308, 214, 7723], "heuristic_cost": [0, 0, 0], "full_cost": [2310308, 214, 7723]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2399250, 210, 7716], "heuristic_cost": [0, 0, 0], "full_cost": [2399250, 210, 7716]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2412610, 203, 7497], "heuristic_cost": [0, 0, 0], "full_cost": [2412610, 203, 7497]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2421960, 202, 7497], "heuristic_cost": [0, 0, 0], "full_cost": [2421960, 202, 7497]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2431084, 200, 7307], "heuristic_cost": [0, 0, 0], "full_cost": [2431084, 200, 7307]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2433929, 198, 7276], "heuristic_cost": [0, 0, 0], "full_cost": [2433929, 198, 7276]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2439832, 188, 6887], "heuristic_cost": [0, 0, 0], "full_cost": [2439832, 188, 6887]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2443371, 187, 6881], "heuristic_cost": [0, 0, 0], "full_cost": [2443371, 187, 6881]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2452721, 186, 6881], "heuristic_cost": [0, 0, 0], "full_cost": [2452721, 186, 6881]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2457831, 183, 6725], "heuristic_cost": [0, 0, 0], "full_cost": [2457831, 183, 6725]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2461370, 182, 6719], "heuristic_cost": [0, 0, 0], "full_cost": [2461370, 182, 6719]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2462245, 181, 6683], "heuristic_cost": [0, 0, 0], "full_cost": [2462245, 181, 6683]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2465784, 180, 6677], "heuristic_cost": [0, 0, 0], "full_cost": [2465784, 180, 6677]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2475134, 179, 6677], "heuristic_cost": [0, 0, 0], "full_cost": [2475134, 179, 6677]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2489913, 178, 6644], "heuristic_cost": [0, 0, 0], "full_cost": [2489913, 178, 6644]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2499263, 177, 6644], "heuristic_cost": [0, 0, 0], "full_cost": [2499263, 177, 6644]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2517260, 175, 6562], "heuristic_cost": [0, 0, 0], "full_cost": [2517260, 175, 6562]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2520799, 174, 6556], "heuristic_cost": [0, 0, 0], "full_cost": [2520799, 174, 6556]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2528400, 170, 6385], "heuristic_cost": [0, 0, 0], "full_cost": [2528400, 170, 6385]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2532814, 168, 6343], "heuristic_cost": [0, 0, 0], "full_cost": [2532814, 168, 6343]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2545703, 166, 6337], "heuristic_cost": [0, 0, 0], "full_cost": [2545703, 166, 6337]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2561829, 165, 6311], "heuristic_cost": [0, 0, 0], "full_cost": [2561829, 165, 6311]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2572314, 161, 6128], "heuristic_cost": [0, 0, 0], "full_cost": [2572314, 161, 6128]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2576728, 159, 6086], "heuristic_cost": [0, 0, 0], "full_cost": [2576728, 159, 6086]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2586078, 158, 6086], "heuristic_cost": [0, 0, 0], "full_cost": [2586078, 158, 6086]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2603551, 157, 6067], "heuristic_cost": [0, 0, 0], "full_cost": [2603551, 157, 6067]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2612901, 156, 6067], "heuristic_cost": [0, 0, 0], "full_cost": [2612901, 156, 6067]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2631160, 155, 6055], "heuristic_cost": [0, 0, 0], "full_cost": [2631160, 155, 6055]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2659922, 154, 6032], "heuristic_cost": [0, 0, 0], "full_cost": [2659922, 154, 6032]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2678181, 153, 6020], "heuristic_cost": [0, 0, 0], "full_cost": [2678181, 153, 6020]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2707746, 152, 6012], "heuristic_cost": [0, 0, 0], "full_cost": [2707746, 152, 6012]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2745236, 151, 6059], "heuristic_cost": [0, 0, 0], "full_cost": [2745236, 151, 6059]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2770489, 151, 6041], "heuristic_cost": [0, 0, 0], "full_cost": [2770489, 151, 6041]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2779624, 150, 6043], "heuristic_cost": [0, 0, 0], "full_cost": [2779624, 150, 6043]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2812564, 148, 6007], "heuristic_cost": [0, 0, 0], "full_cost": [2812564, 148, 6007]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2947034, 151, 5943], "heuristic_cost": [0, 0, 0], "full_cost": [2947034, 151, 5943]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2956384, 150, 5943], "heuristic_cost": [0, 0, 0], "full_cost": [2956384, 150, 5943]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2974702, 148, 5904], "heuristic_cost": [0, 0, 0], "full_cost": [2974702, 148, 5904]},
+				{"id": 135350, "parent": -1, "cost_until_now": [2998772, 147, 5898], "heuristic_cost": [0, 0, 0], "full_cost": [2998772, 147, 5898]},
+				{"id": 135350, "parent": -1, "cost_until_now": [3031073, 145, 5869], "heuristic_cost": [0, 0, 0], "full_cost": [3031073, 145, 5869]},
+				{"id": 135350, "parent": -1, "cost_until_now": [3049332, 144, 5857], "heuristic_cost": [0, 0, 0], "full_cost": [3049332, 144, 5857]},
+				{"id": 135350, "parent": -1, "cost_until_now": [3065649, 143, 5885], "heuristic_cost": [0, 0, 0], "full_cost": [3065649, 143, 5885]},
+				{"id": 135350, "parent": -1, "cost_until_now": [3096561, 142, 5884], "heuristic_cost": [0, 0, 0], "full_cost": [3096561, 142, 5884]},
+				{"id": 135350, "parent": -1, "cost_until_now": [3129479, 141, 5868], "heuristic_cost": [0, 0, 0], "full_cost": [3129479, 141, 5868]}
+			],
+			"amount_of_solutions": 57,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 33557
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 13:30:15 2024",
+	"source": 263943,
+	"target": 295965,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 295965, "parent": -1, "cost_until_now": [1623164, 278, 8999], "heuristic_cost": [0, 0, 0], "full_cost": [1623164, 278, 8999]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1659657, 247, 8355], "heuristic_cost": [0, 0, 0], "full_cost": [1659657, 247, 8355]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1702443, 242, 8251], "heuristic_cost": [0, 0, 0], "full_cost": [1702443, 242, 8251]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1747236, 240, 8296], "heuristic_cost": [0, 0, 0], "full_cost": [1747236, 240, 8296]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1818997, 238, 8274], "heuristic_cost": [0, 0, 0], "full_cost": [1818997, 238, 8274]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1835315, 235, 8270], "heuristic_cost": [0, 0, 0], "full_cost": [1835315, 235, 8270]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1861378, 228, 7997], "heuristic_cost": [0, 0, 0], "full_cost": [1861378, 228, 7997]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1862925, 224, 7890], "heuristic_cost": [0, 0, 0], "full_cost": [1862925, 224, 7890]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1866822, 209, 7305], "heuristic_cost": [0, 0, 0], "full_cost": [1866822, 209, 7305]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1872512, 205, 7196], "heuristic_cost": [0, 0, 0], "full_cost": [1872512, 205, 7196]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1892739, 201, 7179], "heuristic_cost": [0, 0, 0], "full_cost": [1892739, 201, 7179]},
+				{"id": 295965, "parent": -1, "cost_until_now": [1991693, 200, 7399], "heuristic_cost": [0, 0, 0], "full_cost": [1991693, 200, 7399]}
+			],
+			"amount_of_solutions": 12,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 42843
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 14:02:15 2024",
+	"source": 309791,
+	"target": 81571,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 81571, "parent": -1, "cost_until_now": [2625715, 307, 10169], "heuristic_cost": [0, 0, 0], "full_cost": [2625715, 307, 10169]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2662663, 274, 9452], "heuristic_cost": [0, 0, 0], "full_cost": [2662663, 274, 9452]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2687089, 247, 8475], "heuristic_cost": [0, 0, 0], "full_cost": [2687089, 247, 8475]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2718564, 239, 8301], "heuristic_cost": [0, 0, 0], "full_cost": [2718564, 239, 8301]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2807258, 231, 7919], "heuristic_cost": [0, 0, 0], "full_cost": [2807258, 231, 7919]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2827198, 223, 7704], "heuristic_cost": [0, 0, 0], "full_cost": [2827198, 223, 7704]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2845493, 217, 7517], "heuristic_cost": [0, 0, 0], "full_cost": [2845493, 217, 7517]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2857157, 216, 7518], "heuristic_cost": [0, 0, 0], "full_cost": [2857157, 216, 7518]},
+				{"id": 81571, "parent": -1, "cost_until_now": [2883734, 214, 7533], "heuristic_cost": [0, 0, 0], "full_cost": [2883734, 214, 7533]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3074050, 212, 7636], "heuristic_cost": [0, 0, 0], "full_cost": [3074050, 212, 7636]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3102531, 210, 7614], "heuristic_cost": [0, 0, 0], "full_cost": [3102531, 210, 7614]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3139067, 208, 7653], "heuristic_cost": [0, 0, 0], "full_cost": [3139067, 208, 7653]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3172658, 211, 7524], "heuristic_cost": [0, 0, 0], "full_cost": [3172658, 211, 7524]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3189936, 209, 7534], "heuristic_cost": [0, 0, 0], "full_cost": [3189936, 209, 7534]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3196898, 208, 7499], "heuristic_cost": [0, 0, 0], "full_cost": [3196898, 208, 7499]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3211037, 207, 7497], "heuristic_cost": [0, 0, 0], "full_cost": [3211037, 207, 7497]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3219600, 206, 7475], "heuristic_cost": [0, 0, 0], "full_cost": [3219600, 206, 7475]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3247094, 205, 7508], "heuristic_cost": [0, 0, 0], "full_cost": [3247094, 205, 7508]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3255564, 204, 7457], "heuristic_cost": [0, 0, 0], "full_cost": [3255564, 204, 7457]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3271894, 203, 7510], "heuristic_cost": [0, 0, 0], "full_cost": [3271894, 203, 7510]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3281987, 202, 7498], "heuristic_cost": [0, 0, 0], "full_cost": [3281987, 202, 7498]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3294596, 201, 7486], "heuristic_cost": [0, 0, 0], "full_cost": [3294596, 201, 7486]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3322111, 200, 7484], "heuristic_cost": [0, 0, 0], "full_cost": [3322111, 200, 7484]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3515031, 198, 7465], "heuristic_cost": [0, 0, 0], "full_cost": [3515031, 198, 7465]},
+				{"id": 81571, "parent": -1, "cost_until_now": [3541429, 202, 7423], "heuristic_cost": [0, 0, 0], "full_cost": [3541429, 202, 7423]}
+			],
+			"amount_of_solutions": 25,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 61974
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 14:18:55 2024",
+	"source": 287719,
+	"target": 106657,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 106657, "parent": -1, "cost_until_now": [1824696, 206, 6895], "heuristic_cost": [0, 0, 0], "full_cost": [1824696, 206, 6895]},
+				{"id": 106657, "parent": -1, "cost_until_now": [1842478, 195, 6602], "heuristic_cost": [0, 0, 0], "full_cost": [1842478, 195, 6602]},
+				{"id": 106657, "parent": -1, "cost_until_now": [1856446, 191, 6527], "heuristic_cost": [0, 0, 0], "full_cost": [1856446, 191, 6527]},
+				{"id": 106657, "parent": -1, "cost_until_now": [1899744, 187, 6430], "heuristic_cost": [0, 0, 0], "full_cost": [1899744, 187, 6430]},
+				{"id": 106657, "parent": -1, "cost_until_now": [1950815, 186, 6445], "heuristic_cost": [0, 0, 0], "full_cost": [1950815, 186, 6445]},
+				{"id": 106657, "parent": -1, "cost_until_now": [2004281, 182, 6344], "heuristic_cost": [0, 0, 0], "full_cost": [2004281, 182, 6344]},
+				{"id": 106657, "parent": -1, "cost_until_now": [2043673, 181, 6314], "heuristic_cost": [0, 0, 0], "full_cost": [2043673, 181, 6314]},
+				{"id": 106657, "parent": -1, "cost_until_now": [2115542, 180, 6404], "heuristic_cost": [0, 0, 0], "full_cost": [2115542, 180, 6404]},
+				{"id": 106657, "parent": -1, "cost_until_now": [2171592, 177, 6452], "heuristic_cost": [0, 0, 0], "full_cost": [2171592, 177, 6452]}
+			],
+			"amount_of_solutions": 9,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 7084
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 14:22:43 2024",
+	"source": 173075,
+	"target": 19955,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 19955, "parent": -1, "cost_until_now": [899217, 118, 4073], "heuristic_cost": [0, 0, 0], "full_cost": [899217, 118, 4073]},
+				{"id": 19955, "parent": -1, "cost_until_now": [913055, 116, 4057], "heuristic_cost": [0, 0, 0], "full_cost": [913055, 116, 4057]},
+				{"id": 19955, "parent": -1, "cost_until_now": [944368, 106, 3721], "heuristic_cost": [0, 0, 0], "full_cost": [944368, 106, 3721]},
+				{"id": 19955, "parent": -1, "cost_until_now": [971777, 99, 3697], "heuristic_cost": [0, 0, 0], "full_cost": [971777, 99, 3697]},
+				{"id": 19955, "parent": -1, "cost_until_now": [1025644, 97, 3622], "heuristic_cost": [0, 0, 0], "full_cost": [1025644, 97, 3622]},
+				{"id": 19955, "parent": -1, "cost_until_now": [1025566, 99, 3664], "heuristic_cost": [0, 0, 0], "full_cost": [1025566, 99, 3664]},
+				{"id": 19955, "parent": -1, "cost_until_now": [1034242, 94, 3565], "heuristic_cost": [0, 0, 0], "full_cost": [1034242, 94, 3565]}
+			],
+			"amount_of_solutions": 7,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 2586
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 14:47:55 2024",
+	"source": 279848,
+	"target": 252647,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 252647, "parent": -1, "cost_until_now": [1370199, 255, 8283], "heuristic_cost": [0, 0, 0], "full_cost": [1370199, 255, 8283]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1405091, 224, 7607], "heuristic_cost": [0, 0, 0], "full_cost": [1405091, 224, 7607]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1442718, 215, 7580], "heuristic_cost": [0, 0, 0], "full_cost": [1442718, 215, 7580]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1468906, 199, 7229], "heuristic_cost": [0, 0, 0], "full_cost": [1468906, 199, 7229]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1481315, 208, 7387], "heuristic_cost": [0, 0, 0], "full_cost": [1481315, 208, 7387]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1492697, 196, 7134], "heuristic_cost": [0, 0, 0], "full_cost": [1492697, 196, 7134]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1517781, 194, 7142], "heuristic_cost": [0, 0, 0], "full_cost": [1517781, 194, 7142]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1523080, 189, 7022], "heuristic_cost": [0, 0, 0], "full_cost": [1523080, 189, 7022]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1527290, 186, 7003], "heuristic_cost": [0, 0, 0], "full_cost": [1527290, 186, 7003]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1554667, 185, 7031], "heuristic_cost": [0, 0, 0], "full_cost": [1554667, 185, 7031]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1583112, 184, 7267], "heuristic_cost": [0, 0, 0], "full_cost": [1583112, 184, 7267]},
+				{"id": 252647, "parent": -1, "cost_until_now": [1617790, 183, 7234], "heuristic_cost": [0, 0, 0], "full_cost": [1617790, 183, 7234]}
+			],
+			"amount_of_solutions": 12,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 30723
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 15:08:48 2024",
+	"source": 161549,
+	"target": 39689,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 39689, "parent": -1, "cost_until_now": [795215, 167, 5673], "heuristic_cost": [0, 0, 0], "full_cost": [795215, 167, 5673]},
+				{"id": 39689, "parent": -1, "cost_until_now": [809614, 154, 5345], "heuristic_cost": [0, 0, 0], "full_cost": [809614, 154, 5345]},
+				{"id": 39689, "parent": -1, "cost_until_now": [811324, 153, 5327], "heuristic_cost": [0, 0, 0], "full_cost": [811324, 153, 5327]},
+				{"id": 39689, "parent": -1, "cost_until_now": [820700, 144, 4901], "heuristic_cost": [0, 0, 0], "full_cost": [820700, 144, 4901]},
+				{"id": 39689, "parent": -1, "cost_until_now": [826610, 143, 4932], "heuristic_cost": [0, 0, 0], "full_cost": [826610, 143, 4932]},
+				{"id": 39689, "parent": -1, "cost_until_now": [824553, 151, 5315], "heuristic_cost": [0, 0, 0], "full_cost": [824553, 151, 5315]},
+				{"id": 39689, "parent": -1, "cost_until_now": [835392, 138, 4851], "heuristic_cost": [0, 0, 0], "full_cost": [835392, 138, 4851]},
+				{"id": 39689, "parent": -1, "cost_until_now": [837102, 137, 4833], "heuristic_cost": [0, 0, 0], "full_cost": [837102, 137, 4833]},
+				{"id": 39689, "parent": -1, "cost_until_now": [845255, 134, 4632], "heuristic_cost": [0, 0, 0], "full_cost": [845255, 134, 4632]},
+				{"id": 39689, "parent": -1, "cost_until_now": [838051, 138, 4683], "heuristic_cost": [0, 0, 0], "full_cost": [838051, 138, 4683]},
+				{"id": 39689, "parent": -1, "cost_until_now": [859543, 128, 4597], "heuristic_cost": [0, 0, 0], "full_cost": [859543, 128, 4597]},
+				{"id": 39689, "parent": -1, "cost_until_now": [854708, 131, 4779], "heuristic_cost": [0, 0, 0], "full_cost": [854708, 131, 4779]},
+				{"id": 39689, "parent": -1, "cost_until_now": [865631, 126, 4567], "heuristic_cost": [0, 0, 0], "full_cost": [865631, 126, 4567]},
+				{"id": 39689, "parent": -1, "cost_until_now": [879372, 124, 4574], "heuristic_cost": [0, 0, 0], "full_cost": [879372, 124, 4574]},
+				{"id": 39689, "parent": -1, "cost_until_now": [889888, 125, 4478], "heuristic_cost": [0, 0, 0], "full_cost": [889888, 125, 4478]},
+				{"id": 39689, "parent": -1, "cost_until_now": [900067, 122, 4476], "heuristic_cost": [0, 0, 0], "full_cost": [900067, 122, 4476]},
+				{"id": 39689, "parent": -1, "cost_until_now": [904467, 121, 4462], "heuristic_cost": [0, 0, 0], "full_cost": [904467, 121, 4462]},
+				{"id": 39689, "parent": -1, "cost_until_now": [1012576, 120, 4575], "heuristic_cost": [0, 0, 0], "full_cost": [1012576, 120, 4575]},
+				{"id": 39689, "parent": -1, "cost_until_now": [1035401, 119, 4474], "heuristic_cost": [0, 0, 0], "full_cost": [1035401, 119, 4474]},
+				{"id": 39689, "parent": -1, "cost_until_now": [1043491, 119, 4468], "heuristic_cost": [0, 0, 0], "full_cost": [1043491, 119, 4468]}
+			],
+			"amount_of_solutions": 20,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 7830
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 15:12:11 2024",
+	"source": 320383,
+	"target": 171714,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 171714, "parent": -1, "cost_until_now": [794044, 104, 3379], "heuristic_cost": [0, 0, 0], "full_cost": [794044, 104, 3379]},
+				{"id": 171714, "parent": -1, "cost_until_now": [803568, 105, 3374], "heuristic_cost": [0, 0, 0], "full_cost": [803568, 105, 3374]},
+				{"id": 171714, "parent": -1, "cost_until_now": [811895, 101, 3375], "heuristic_cost": [0, 0, 0], "full_cost": [811895, 101, 3375]},
+				{"id": 171714, "parent": -1, "cost_until_now": [817418, 100, 3428], "heuristic_cost": [0, 0, 0], "full_cost": [817418, 100, 3428]},
+				{"id": 171714, "parent": -1, "cost_until_now": [842775, 97, 3352], "heuristic_cost": [0, 0, 0], "full_cost": [842775, 97, 3352]},
+				{"id": 171714, "parent": -1, "cost_until_now": [831806, 99, 3333], "heuristic_cost": [0, 0, 0], "full_cost": [831806, 99, 3333]},
+				{"id": 171714, "parent": -1, "cost_until_now": [855471, 95, 3493], "heuristic_cost": [0, 0, 0], "full_cost": [855471, 95, 3493]},
+				{"id": 171714, "parent": -1, "cost_until_now": [863213, 96, 3460], "heuristic_cost": [0, 0, 0], "full_cost": [863213, 96, 3460]},
+				{"id": 171714, "parent": -1, "cost_until_now": [898369, 95, 3186], "heuristic_cost": [0, 0, 0], "full_cost": [898369, 95, 3186]},
+				{"id": 171714, "parent": -1, "cost_until_now": [915661, 91, 3014], "heuristic_cost": [0, 0, 0], "full_cost": [915661, 91, 3014]},
+				{"id": 171714, "parent": -1, "cost_until_now": [926281, 89, 2976], "heuristic_cost": [0, 0, 0], "full_cost": [926281, 89, 2976]},
+				{"id": 171714, "parent": -1, "cost_until_now": [924582, 90, 2998], "heuristic_cost": [0, 0, 0], "full_cost": [924582, 90, 2998]},
+				{"id": 171714, "parent": -1, "cost_until_now": [942034, 88, 2943], "heuristic_cost": [0, 0, 0], "full_cost": [942034, 88, 2943]},
+				{"id": 171714, "parent": -1, "cost_until_now": [944559, 85, 2945], "heuristic_cost": [0, 0, 0], "full_cost": [944559, 85, 2945]},
+				{"id": 171714, "parent": -1, "cost_until_now": [944908, 85, 3002], "heuristic_cost": [0, 0, 0], "full_cost": [944908, 85, 3002]},
+				{"id": 171714, "parent": -1, "cost_until_now": [957866, 83, 2976], "heuristic_cost": [0, 0, 0], "full_cost": [957866, 83, 2976]},
+				{"id": 171714, "parent": -1, "cost_until_now": [964910, 85, 2900], "heuristic_cost": [0, 0, 0], "full_cost": [964910, 85, 2900]},
+				{"id": 171714, "parent": -1, "cost_until_now": [965820, 82, 2955], "heuristic_cost": [0, 0, 0], "full_cost": [965820, 82, 2955]},
+				{"id": 171714, "parent": -1, "cost_until_now": [995464, 81, 2939], "heuristic_cost": [0, 0, 0], "full_cost": [995464, 81, 2939]}
+			],
+			"amount_of_solutions": 19,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 1325
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 15:38:57 2024",
+	"source": 307024,
+	"target": 283992,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 283992, "parent": -1, "cost_until_now": [2357688, 286, 9911], "heuristic_cost": [0, 0, 0], "full_cost": [2357688, 286, 9911]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2432025, 272, 9497], "heuristic_cost": [0, 0, 0], "full_cost": [2432025, 272, 9497]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2437322, 268, 9320], "heuristic_cost": [0, 0, 0], "full_cost": [2437322, 268, 9320]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2485928, 261, 9190], "heuristic_cost": [0, 0, 0], "full_cost": [2485928, 261, 9190]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2504863, 258, 9229], "heuristic_cost": [0, 0, 0], "full_cost": [2504863, 258, 9229]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2450802, 268, 9460], "heuristic_cost": [0, 0, 0], "full_cost": [2450802, 268, 9460]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2535621, 250, 8984], "heuristic_cost": [0, 0, 0], "full_cost": [2535621, 250, 8984]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2533839, 251, 8970], "heuristic_cost": [0, 0, 0], "full_cost": [2533839, 251, 8970]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2559424, 247, 8900], "heuristic_cost": [0, 0, 0], "full_cost": [2559424, 247, 8900]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2618599, 243, 8837], "heuristic_cost": [0, 0, 0], "full_cost": [2618599, 243, 8837]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2683987, 241, 8773], "heuristic_cost": [0, 0, 0], "full_cost": [2683987, 241, 8773]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2727333, 240, 8820], "heuristic_cost": [0, 0, 0], "full_cost": [2727333, 240, 8820]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2763249, 254, 8646], "heuristic_cost": [0, 0, 0], "full_cost": [2763249, 254, 8646]},
+				{"id": 283992, "parent": -1, "cost_until_now": [2934031, 232, 8670], "heuristic_cost": [0, 0, 0], "full_cost": [2934031, 232, 8670]}
+			],
+			"amount_of_solutions": 14,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 26731
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 15:43:02 2024",
+	"source": 65447,
+	"target": 183680,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 183680, "parent": -1, "cost_until_now": [994416, 120, 4126], "heuristic_cost": [0, 0, 0], "full_cost": [994416, 120, 4126]},
+				{"id": 183680, "parent": -1, "cost_until_now": [1028818, 116, 4058], "heuristic_cost": [0, 0, 0], "full_cost": [1028818, 116, 4058]},
+				{"id": 183680, "parent": -1, "cost_until_now": [1053212, 106, 3806], "heuristic_cost": [0, 0, 0], "full_cost": [1053212, 106, 3806]},
+				{"id": 183680, "parent": -1, "cost_until_now": [1086415, 104, 3760], "heuristic_cost": [0, 0, 0], "full_cost": [1086415, 104, 3760]},
+				{"id": 183680, "parent": -1, "cost_until_now": [1125042, 100, 3605], "heuristic_cost": [0, 0, 0], "full_cost": [1125042, 100, 3605]},
+				{"id": 183680, "parent": -1, "cost_until_now": [1180824, 98, 3607], "heuristic_cost": [0, 0, 0], "full_cost": [1180824, 98, 3607]}
+			],
+			"amount_of_solutions": 6,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 1018
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 15:45:48 2024",
+	"source": 182236,
+	"target": 65121,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 65121, "parent": -1, "cost_until_now": [899410, 118, 4034], "heuristic_cost": [0, 0, 0], "full_cost": [899410, 118, 4034]},
+				{"id": 65121, "parent": -1, "cost_until_now": [939386, 114, 3955], "heuristic_cost": [0, 0, 0], "full_cost": [939386, 114, 3955]},
+				{"id": 65121, "parent": -1, "cost_until_now": [1002258, 112, 3945], "heuristic_cost": [0, 0, 0], "full_cost": [1002258, 112, 3945]},
+				{"id": 65121, "parent": -1, "cost_until_now": [1052086, 101, 3607], "heuristic_cost": [0, 0, 0], "full_cost": [1052086, 101, 3607]},
+				{"id": 65121, "parent": -1, "cost_until_now": [1093597, 92, 3315], "heuristic_cost": [0, 0, 0], "full_cost": [1093597, 92, 3315]},
+				{"id": 65121, "parent": -1, "cost_until_now": [1111796, 90, 3320], "heuristic_cost": [0, 0, 0], "full_cost": [1111796, 90, 3320]}
+			],
+			"amount_of_solutions": 6,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 796
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 16:20:41 2024",
+	"source": 49278,
+	"target": 225916,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 225916, "parent": -1, "cost_until_now": [1171522, 282, 8838], "heuristic_cost": [0, 0, 0], "full_cost": [1171522, 282, 8838]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1183977, 271, 8590], "heuristic_cost": [0, 0, 0], "full_cost": [1183977, 271, 8590]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1215553, 257, 8474], "heuristic_cost": [0, 0, 0], "full_cost": [1215553, 257, 8474]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1217600, 256, 8441], "heuristic_cost": [0, 0, 0], "full_cost": [1217600, 256, 8441]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1222368, 255, 8454], "heuristic_cost": [0, 0, 0], "full_cost": [1222368, 255, 8454]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1239832, 254, 8443], "heuristic_cost": [0, 0, 0], "full_cost": [1239832, 254, 8443]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1240184, 253, 8420], "heuristic_cost": [0, 0, 0], "full_cost": [1240184, 253, 8420]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1241737, 252, 8395], "heuristic_cost": [0, 0, 0], "full_cost": [1241737, 252, 8395]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1243894, 252, 8375], "heuristic_cost": [0, 0, 0], "full_cost": [1243894, 252, 8375]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1245549, 248, 8350], "heuristic_cost": [0, 0, 0], "full_cost": [1245549, 248, 8350]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1247596, 247, 8317], "heuristic_cost": [0, 0, 0], "full_cost": [1247596, 247, 8317]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1252258, 246, 8323], "heuristic_cost": [0, 0, 0], "full_cost": [1252258, 246, 8323]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1259889, 244, 8332], "heuristic_cost": [0, 0, 0], "full_cost": [1259889, 244, 8332]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1261936, 243, 8299], "heuristic_cost": [0, 0, 0], "full_cost": [1261936, 243, 8299]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1266598, 242, 8305], "heuristic_cost": [0, 0, 0], "full_cost": [1266598, 242, 8305]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1276276, 237, 8142], "heuristic_cost": [0, 0, 0], "full_cost": [1276276, 237, 8142]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1276766, 240, 8315], "heuristic_cost": [0, 0, 0], "full_cost": [1276766, 240, 8315]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1278813, 239, 8282], "heuristic_cost": [0, 0, 0], "full_cost": [1278813, 239, 8282]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1284891, 229, 8058], "heuristic_cost": [0, 0, 0], "full_cost": [1284891, 229, 8058]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1282844, 230, 8091], "heuristic_cost": [0, 0, 0], "full_cost": [1282844, 230, 8091]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1297706, 228, 8092], "heuristic_cost": [0, 0, 0], "full_cost": [1297706, 228, 8092]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1299345, 226, 8023], "heuristic_cost": [0, 0, 0], "full_cost": [1299345, 226, 8023]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1303953, 225, 8023], "heuristic_cost": [0, 0, 0], "full_cost": [1303953, 225, 8023]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1310842, 227, 7981], "heuristic_cost": [0, 0, 0], "full_cost": [1310842, 227, 7981]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1308193, 224, 8016], "heuristic_cost": [0, 0, 0], "full_cost": [1308193, 224, 8016]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1312889, 226, 7948], "heuristic_cost": [0, 0, 0], "full_cost": [1312889, 226, 7948]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1314374, 223, 8017], "heuristic_cost": [0, 0, 0], "full_cost": [1314374, 223, 8017]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1317551, 225, 7954], "heuristic_cost": [0, 0, 0], "full_cost": [1317551, 225, 7954]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1315472, 224, 8008], "heuristic_cost": [0, 0, 0], "full_cost": [1315472, 224, 8008]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1322381, 224, 7932], "heuristic_cost": [0, 0, 0], "full_cost": [1322381, 224, 7932]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1320080, 223, 8008], "heuristic_cost": [0, 0, 0], "full_cost": [1320080, 223, 8008]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1324320, 222, 8001], "heuristic_cost": [0, 0, 0], "full_cost": [1324320, 222, 8001]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1327043, 223, 7938], "heuristic_cost": [0, 0, 0], "full_cost": [1327043, 223, 7938]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1329153, 222, 7822], "heuristic_cost": [0, 0, 0], "full_cost": [1329153, 222, 7822]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1331373, 221, 7796], "heuristic_cost": [0, 0, 0], "full_cost": [1331373, 221, 7796]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1333420, 220, 7763], "heuristic_cost": [0, 0, 0], "full_cost": [1333420, 220, 7763]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1338082, 219, 7769], "heuristic_cost": [0, 0, 0], "full_cost": [1338082, 219, 7769]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1346259, 218, 7741], "heuristic_cost": [0, 0, 0], "full_cost": [1346259, 218, 7741]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1347509, 217, 7736], "heuristic_cost": [0, 0, 0], "full_cost": [1347509, 217, 7736]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1351857, 216, 7741], "heuristic_cost": [0, 0, 0], "full_cost": [1351857, 216, 7741]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1356357, 215, 7729], "heuristic_cost": [0, 0, 0], "full_cost": [1356357, 215, 7729]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1362553, 214, 7739], "heuristic_cost": [0, 0, 0], "full_cost": [1362553, 214, 7739]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1367161, 213, 7739], "heuristic_cost": [0, 0, 0], "full_cost": [1367161, 213, 7739]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1369719, 216, 7693], "heuristic_cost": [0, 0, 0], "full_cost": [1369719, 216, 7693]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1371401, 212, 7732], "heuristic_cost": [0, 0, 0], "full_cost": [1371401, 212, 7732]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1372920, 212, 7727], "heuristic_cost": [0, 0, 0], "full_cost": [1372920, 212, 7727]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1373315, 214, 7720], "heuristic_cost": [0, 0, 0], "full_cost": [1373315, 214, 7720]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1374455, 215, 7643], "heuristic_cost": [0, 0, 0], "full_cost": [1374455, 215, 7643]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1375586, 213, 7712], "heuristic_cost": [0, 0, 0], "full_cost": [1375586, 213, 7712]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1375749, 211, 7737], "heuristic_cost": [0, 0, 0], "full_cost": [1375749, 211, 7737]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1377268, 211, 7732], "heuristic_cost": [0, 0, 0], "full_cost": [1377268, 211, 7732]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1381930, 210, 7738], "heuristic_cost": [0, 0, 0], "full_cost": [1381930, 210, 7738]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1382775, 214, 7664], "heuristic_cost": [0, 0, 0], "full_cost": [1382775, 214, 7664]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1388909, 212, 7608], "heuristic_cost": [0, 0, 0], "full_cost": [1388909, 212, 7608]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1394452, 208, 7754], "heuristic_cost": [0, 0, 0], "full_cost": [1394452, 208, 7754]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1397757, 210, 7601], "heuristic_cost": [0, 0, 0], "full_cost": [1397757, 210, 7601]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1408659, 207, 7591], "heuristic_cost": [0, 0, 0], "full_cost": [1408659, 207, 7591]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1410029, 219, 7510], "heuristic_cost": [0, 0, 0], "full_cost": [1410029, 219, 7510]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1412886, 208, 7577], "heuristic_cost": [0, 0, 0], "full_cost": [1412886, 208, 7577]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1414190, 218, 7513], "heuristic_cost": [0, 0, 0], "full_cost": [1414190, 218, 7513]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1418538, 217, 7518], "heuristic_cost": [0, 0, 0], "full_cost": [1418538, 217, 7518]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1418798, 217, 7513], "heuristic_cost": [0, 0, 0], "full_cost": [1418798, 217, 7513]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1421791, 216, 7475], "heuristic_cost": [0, 0, 0], "full_cost": [1421791, 216, 7475]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1419041, 205, 7597], "heuristic_cost": [0, 0, 0], "full_cost": [1419041, 205, 7597]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1423848, 221, 7394], "heuristic_cost": [0, 0, 0], "full_cost": [1423848, 221, 7394]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1425012, 220, 7380], "heuristic_cost": [0, 0, 0], "full_cost": [1425012, 220, 7380]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1426338, 215, 7457], "heuristic_cost": [0, 0, 0], "full_cost": [1426338, 215, 7457]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1426793, 218, 7354], "heuristic_cost": [0, 0, 0], "full_cost": [1426793, 218, 7354]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1425533, 208, 7570], "heuristic_cost": [0, 0, 0], "full_cost": [1425533, 208, 7570]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1430221, 217, 7291], "heuristic_cost": [0, 0, 0], "full_cost": [1430221, 217, 7291]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1431385, 216, 7277], "heuristic_cost": [0, 0, 0], "full_cost": [1431385, 216, 7277]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1430686, 214, 7462], "heuristic_cost": [0, 0, 0], "full_cost": [1430686, 214, 7462]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1433672, 214, 7254], "heuristic_cost": [0, 0, 0], "full_cost": [1433672, 214, 7254]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1435186, 213, 7450], "heuristic_cost": [0, 0, 0], "full_cost": [1435186, 213, 7450]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1438020, 213, 7259], "heuristic_cost": [0, 0, 0], "full_cost": [1438020, 213, 7259]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1430581, 204, 7616], "heuristic_cost": [0, 0, 0], "full_cost": [1430581, 204, 7616]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1439534, 212, 7455], "heuristic_cost": [0, 0, 0], "full_cost": [1439534, 212, 7455]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1442520, 212, 7247], "heuristic_cost": [0, 0, 0], "full_cost": [1442520, 212, 7247]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1446868, 211, 7252], "heuristic_cost": [0, 0, 0], "full_cost": [1446868, 211, 7252]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1446973, 204, 7590], "heuristic_cost": [0, 0, 0], "full_cost": [1446973, 204, 7590]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1448887, 206, 7578], "heuristic_cost": [0, 0, 0], "full_cost": [1448887, 206, 7578]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1448492, 204, 7585], "heuristic_cost": [0, 0, 0], "full_cost": [1448492, 204, 7585]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1442234, 203, 7627], "heuristic_cost": [0, 0, 0], "full_cost": [1442234, 203, 7627]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1451158, 205, 7570], "heuristic_cost": [0, 0, 0], "full_cost": [1451158, 205, 7570]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1452693, 203, 7590], "heuristic_cost": [0, 0, 0], "full_cost": [1452693, 203, 7590]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1452902, 210, 7253], "heuristic_cost": [0, 0, 0], "full_cost": [1452902, 210, 7253]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1457355, 202, 7596], "heuristic_cost": [0, 0, 0], "full_cost": [1457355, 202, 7596]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1456723, 208, 7419], "heuristic_cost": [0, 0, 0], "full_cost": [1456723, 208, 7419]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1463805, 205, 7563], "heuristic_cost": [0, 0, 0], "full_cost": [1463805, 205, 7563]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1461942, 206, 7403], "heuristic_cost": [0, 0, 0], "full_cost": [1461942, 206, 7403]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1469604, 201, 7679], "heuristic_cost": [0, 0, 0], "full_cost": [1469604, 201, 7679]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1478109, 205, 7242], "heuristic_cost": [0, 0, 0], "full_cost": [1478109, 205, 7242]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1490860, 210, 7019], "heuristic_cost": [0, 0, 0], "full_cost": [1490860, 210, 7019]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1474069, 200, 7719], "heuristic_cost": [0, 0, 0], "full_cost": [1474069, 200, 7719]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1484143, 204, 7243], "heuristic_cost": [0, 0, 0], "full_cost": [1484143, 204, 7243]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1474849, 206, 7301], "heuristic_cost": [0, 0, 0], "full_cost": [1474849, 206, 7301]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1498409, 204, 7439], "heuristic_cost": [0, 0, 0], "full_cost": [1498409, 204, 7439]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1517342, 201, 7558], "heuristic_cost": [0, 0, 0], "full_cost": [1517342, 201, 7558]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1508286, 199, 7808], "heuristic_cost": [0, 0, 0], "full_cost": [1508286, 199, 7808]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1525488, 201, 7285], "heuristic_cost": [0, 0, 0], "full_cost": [1525488, 201, 7285]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1528154, 202, 7270], "heuristic_cost": [0, 0, 0], "full_cost": [1528154, 202, 7270]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1529697, 204, 7154], "heuristic_cost": [0, 0, 0], "full_cost": [1529697, 204, 7154]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1512676, 198, 7850], "heuristic_cost": [0, 0, 0], "full_cost": [1512676, 198, 7850]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1534045, 203, 7159], "heuristic_cost": [0, 0, 0], "full_cost": [1534045, 203, 7159]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1538283, 202, 7122], "heuristic_cost": [0, 0, 0], "full_cost": [1538283, 202, 7122]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1529689, 200, 7290], "heuristic_cost": [0, 0, 0], "full_cost": [1529689, 200, 7290]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1536363, 207, 7000], "heuristic_cost": [0, 0, 0], "full_cost": [1536363, 207, 7000]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1542631, 201, 7127], "heuristic_cost": [0, 0, 0], "full_cost": [1542631, 201, 7127]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1544859, 206, 7016], "heuristic_cost": [0, 0, 0], "full_cost": [1544859, 206, 7016]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1545211, 205, 6993], "heuristic_cost": [0, 0, 0], "full_cost": [1545211, 205, 6993]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1534351, 199, 7296], "heuristic_cost": [0, 0, 0], "full_cost": [1534351, 199, 7296]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1547131, 200, 7115], "heuristic_cost": [0, 0, 0], "full_cost": [1547131, 200, 7115]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1549045, 202, 7103], "heuristic_cost": [0, 0, 0], "full_cost": [1549045, 202, 7103]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1551316, 201, 7095], "heuristic_cost": [0, 0, 0], "full_cost": [1551316, 201, 7095]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1551479, 199, 7120], "heuristic_cost": [0, 0, 0], "full_cost": [1551479, 199, 7120]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1549559, 204, 6998], "heuristic_cost": [0, 0, 0], "full_cost": [1549559, 204, 6998]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1557513, 198, 7121], "heuristic_cost": [0, 0, 0], "full_cost": [1557513, 198, 7121]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1555740, 203, 6999], "heuristic_cost": [0, 0, 0], "full_cost": [1555740, 203, 6999]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1563963, 201, 7088], "heuristic_cost": [0, 0, 0], "full_cost": [1563963, 201, 7088]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1567339, 202, 6974], "heuristic_cost": [0, 0, 0], "full_cost": [1567339, 202, 6974]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1571839, 201, 6962], "heuristic_cost": [0, 0, 0], "full_cost": [1571839, 201, 6962]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1572305, 202, 6857], "heuristic_cost": [0, 0, 0], "full_cost": [1572305, 202, 6857]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1576653, 201, 6862], "heuristic_cost": [0, 0, 0], "full_cost": [1576653, 201, 6862]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1578020, 200, 6963], "heuristic_cost": [0, 0, 0], "full_cost": [1578020, 200, 6963]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1581153, 200, 6850], "heuristic_cost": [0, 0, 0], "full_cost": [1581153, 200, 6850]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1585501, 199, 6855], "heuristic_cost": [0, 0, 0], "full_cost": [1585501, 199, 6855]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1569286, 197, 7172], "heuristic_cost": [0, 0, 0], "full_cost": [1569286, 197, 7172]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1590805, 185, 6604], "heuristic_cost": [0, 0, 0], "full_cost": [1590805, 185, 6604]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1573948, 196, 7178], "heuristic_cost": [0, 0, 0], "full_cost": [1573948, 196, 7178]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1589634, 197, 7046], "heuristic_cost": [0, 0, 0], "full_cost": [1589634, 197, 7046]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1595153, 184, 6609], "heuristic_cost": [0, 0, 0], "full_cost": [1595153, 184, 6609]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1599653, 183, 6597], "heuristic_cost": [0, 0, 0], "full_cost": [1599653, 183, 6597]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1603838, 184, 6577], "heuristic_cost": [0, 0, 0], "full_cost": [1603838, 184, 6577]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1604001, 182, 6602], "heuristic_cost": [0, 0, 0], "full_cost": [1604001, 182, 6602]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1610035, 181, 6603], "heuristic_cost": [0, 0, 0], "full_cost": [1610035, 181, 6603]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1619993, 170, 6024], "heuristic_cost": [0, 0, 0], "full_cost": [1619993, 170, 6024]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1639223, 166, 6023], "heuristic_cost": [0, 0, 0], "full_cost": [1639223, 166, 6023]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1667708, 162, 5742], "heuristic_cost": [0, 0, 0], "full_cost": [1667708, 162, 5742]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1676556, 160, 5735], "heuristic_cost": [0, 0, 0], "full_cost": [1676556, 160, 5735]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1676435, 162, 5716], "heuristic_cost": [0, 0, 0], "full_cost": [1676435, 162, 5716]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1682590, 159, 5736], "heuristic_cost": [0, 0, 0], "full_cost": [1682590, 159, 5736]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1708077, 156, 5770], "heuristic_cost": [0, 0, 0], "full_cost": [1708077, 156, 5770]},
+				{"id": 225916, "parent": -1, "cost_until_now": [1715405, 161, 5525], "heuristic_cost": [0, 0, 0], "full_cost": [1715405, 161, 5525]}
+			],
+			"amount_of_solutions": 143,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 112985
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 16:29:00 2024",
+	"source": 480,
+	"target": 167323,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 167323, "parent": -1, "cost_until_now": [289281, 77, 2549], "heuristic_cost": [0, 0, 0], "full_cost": [289281, 77, 2549]},
+				{"id": 167323, "parent": -1, "cost_until_now": [289939, 75, 2520], "heuristic_cost": [0, 0, 0], "full_cost": [289939, 75, 2520]},
+				{"id": 167323, "parent": -1, "cost_until_now": [295715, 74, 2459], "heuristic_cost": [0, 0, 0], "full_cost": [295715, 74, 2459]},
+				{"id": 167323, "parent": -1, "cost_until_now": [296366, 67, 2315], "heuristic_cost": [0, 0, 0], "full_cost": [296366, 67, 2315]},
+				{"id": 167323, "parent": -1, "cost_until_now": [296914, 68, 2353], "heuristic_cost": [0, 0, 0], "full_cost": [296914, 68, 2353]},
+				{"id": 167323, "parent": -1, "cost_until_now": [297161, 70, 2374], "heuristic_cost": [0, 0, 0], "full_cost": [297161, 70, 2374]},
+				{"id": 167323, "parent": -1, "cost_until_now": [299321, 65, 2311], "heuristic_cost": [0, 0, 0], "full_cost": [299321, 65, 2311]},
+				{"id": 167323, "parent": -1, "cost_until_now": [300823, 67, 2303], "heuristic_cost": [0, 0, 0], "full_cost": [300823, 67, 2303]},
+				{"id": 167323, "parent": -1, "cost_until_now": [301978, 66, 2302], "heuristic_cost": [0, 0, 0], "full_cost": [301978, 66, 2302]},
+				{"id": 167323, "parent": -1, "cost_until_now": [303778, 65, 2299], "heuristic_cost": [0, 0, 0], "full_cost": [303778, 65, 2299]}
+			],
+			"amount_of_solutions": 10,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 969
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 16:32:00 2024",
+	"source": 63163,
+	"target": 88394,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 88394, "parent": -1, "cost_until_now": [891434, 144, 4725], "heuristic_cost": [0, 0, 0], "full_cost": [891434, 144, 4725]},
+				{"id": 88394, "parent": -1, "cost_until_now": [925393, 141, 4887], "heuristic_cost": [0, 0, 0], "full_cost": [925393, 141, 4887]},
+				{"id": 88394, "parent": -1, "cost_until_now": [951905, 133, 5114], "heuristic_cost": [0, 0, 0], "full_cost": [951905, 133, 5114]},
+				{"id": 88394, "parent": -1, "cost_until_now": [941474, 140, 4903], "heuristic_cost": [0, 0, 0], "full_cost": [941474, 140, 4903]},
+				{"id": 88394, "parent": -1, "cost_until_now": [1042502, 138, 4887], "heuristic_cost": [0, 0, 0], "full_cost": [1042502, 138, 4887]},
+				{"id": 88394, "parent": -1, "cost_until_now": [1059220, 137, 4890], "heuristic_cost": [0, 0, 0], "full_cost": [1059220, 137, 4890]},
+				{"id": 88394, "parent": -1, "cost_until_now": [1052150, 139, 4702], "heuristic_cost": [0, 0, 0], "full_cost": [1052150, 139, 4702]},
+				{"id": 88394, "parent": -1, "cost_until_now": [1069894, 134, 4699], "heuristic_cost": [0, 0, 0], "full_cost": [1069894, 134, 4699]}
+			],
+			"amount_of_solutions": 8,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 1500
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 16:44:27 2024",
+	"source": 119184,
+	"target": 181655,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 181655, "parent": -1, "cost_until_now": [1347571, 196, 6511], "heuristic_cost": [0, 0, 0], "full_cost": [1347571, 196, 6511]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1379262, 185, 6287], "heuristic_cost": [0, 0, 0], "full_cost": [1379262, 185, 6287]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1414473, 160, 5657], "heuristic_cost": [0, 0, 0], "full_cost": [1414473, 160, 5657]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1423887, 182, 6161], "heuristic_cost": [0, 0, 0], "full_cost": [1423887, 182, 6161]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1430301, 157, 5615], "heuristic_cost": [0, 0, 0], "full_cost": [1430301, 157, 5615]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1441932, 151, 5389], "heuristic_cost": [0, 0, 0], "full_cost": [1441932, 151, 5389]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1479735, 151, 5361], "heuristic_cost": [0, 0, 0], "full_cost": [1479735, 151, 5361]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1493572, 148, 5263], "heuristic_cost": [0, 0, 0], "full_cost": [1493572, 148, 5263]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1498976, 142, 5144], "heuristic_cost": [0, 0, 0], "full_cost": [1498976, 142, 5144]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1502181, 144, 5186], "heuristic_cost": [0, 0, 0], "full_cost": [1502181, 144, 5186]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1521579, 138, 4911], "heuristic_cost": [0, 0, 0], "full_cost": [1521579, 138, 4911]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1509681, 140, 5079], "heuristic_cost": [0, 0, 0], "full_cost": [1509681, 140, 5079]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1528290, 137, 4924], "heuristic_cost": [0, 0, 0], "full_cost": [1528290, 137, 4924]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1552359, 134, 4810], "heuristic_cost": [0, 0, 0], "full_cost": [1552359, 134, 4810]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1558172, 131, 4730], "heuristic_cost": [0, 0, 0], "full_cost": [1558172, 131, 4730]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1607358, 129, 4758], "heuristic_cost": [0, 0, 0], "full_cost": [1607358, 129, 4758]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1619901, 126, 4668], "heuristic_cost": [0, 0, 0], "full_cost": [1619901, 126, 4668]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1637717, 125, 4652], "heuristic_cost": [0, 0, 0], "full_cost": [1637717, 125, 4652]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1643951, 122, 4577], "heuristic_cost": [0, 0, 0], "full_cost": [1643951, 122, 4577]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1672033, 121, 4564], "heuristic_cost": [0, 0, 0], "full_cost": [1672033, 121, 4564]},
+				{"id": 181655, "parent": -1, "cost_until_now": [1710012, 120, 4610], "heuristic_cost": [0, 0, 0], "full_cost": [1710012, 120, 4610]}
+			],
+			"amount_of_solutions": 21,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 19112
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 16:47:57 2024",
+	"source": 184377,
+	"target": 120014,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 120014, "parent": -1, "cost_until_now": [210292, 32, 1095], "heuristic_cost": [0, 0, 0], "full_cost": [210292, 32, 1095]},
+				{"id": 120014, "parent": -1, "cost_until_now": [285750, 31, 1116], "heuristic_cost": [0, 0, 0], "full_cost": [285750, 31, 1116]},
+				{"id": 120014, "parent": -1, "cost_until_now": [311898, 29, 1032], "heuristic_cost": [0, 0, 0], "full_cost": [311898, 29, 1032]},
+				{"id": 120014, "parent": -1, "cost_until_now": [323179, 28, 1027], "heuristic_cost": [0, 0, 0], "full_cost": [323179, 28, 1027]},
+				{"id": 120014, "parent": -1, "cost_until_now": [353561, 27, 1139], "heuristic_cost": [0, 0, 0], "full_cost": [353561, 27, 1139]},
+				{"id": 120014, "parent": -1, "cost_until_now": [415464, 26, 1110], "heuristic_cost": [0, 0, 0], "full_cost": [415464, 26, 1110]},
+				{"id": 120014, "parent": -1, "cost_until_now": [429422, 25, 1104], "heuristic_cost": [0, 0, 0], "full_cost": [429422, 25, 1104]},
+				{"id": 120014, "parent": -1, "cost_until_now": [446681, 25, 1097], "heuristic_cost": [0, 0, 0], "full_cost": [446681, 25, 1097]}
+			],
+			"amount_of_solutions": 8,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 125
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 17:13:41 2024",
+	"source": 248922,
+	"target": 105368,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 105368, "parent": -1, "cost_until_now": [1452991, 285, 9195], "heuristic_cost": [0, 0, 0], "full_cost": [1452991, 285, 9195]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1433237, 306, 9801], "heuristic_cost": [0, 0, 0], "full_cost": [1433237, 306, 9801]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1488784, 261, 8526], "heuristic_cost": [0, 0, 0], "full_cost": [1488784, 261, 8526]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1506216, 247, 8277], "heuristic_cost": [0, 0, 0], "full_cost": [1506216, 247, 8277]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1545478, 241, 8278], "heuristic_cost": [0, 0, 0], "full_cost": [1545478, 241, 8278]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1570792, 234, 8261], "heuristic_cost": [0, 0, 0], "full_cost": [1570792, 234, 8261]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1730439, 231, 8106], "heuristic_cost": [0, 0, 0], "full_cost": [1730439, 231, 8106]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1750556, 223, 8072], "heuristic_cost": [0, 0, 0], "full_cost": [1750556, 223, 8072]},
+				{"id": 105368, "parent": -1, "cost_until_now": [1826918, 224, 7938], "heuristic_cost": [0, 0, 0], "full_cost": [1826918, 224, 7938]}
+			],
+			"amount_of_solutions": 9,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 26232
+}
+]
+[
+{
+	"start_time": "Sat Nov 30 17:35:54 2024",
+	"source": 188267,
+	"target": 80283,
+	"search_info": {
+			"name": "Apex-r",
+			"eps": [0.05, 0.05, 0.05]
+		},
+	"finish_info": {
+			"solutions": [
+				{"id": 80283, "parent": -1, "cost_until_now": [2234373, 336, 10846], "heuristic_cost": [0, 0, 0], "full_cost": [2234373, 336, 10846]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2283938, 317, 10403], "heuristic_cost": [0, 0, 0], "full_cost": [2283938, 317, 10403]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2299585, 298, 9888], "heuristic_cost": [0, 0, 0], "full_cost": [2299585, 298, 9888]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2303562, 297, 9876], "heuristic_cost": [0, 0, 0], "full_cost": [2303562, 297, 9876]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2357108, 262, 8999], "heuristic_cost": [0, 0, 0], "full_cost": [2357108, 262, 8999]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2353131, 263, 9011], "heuristic_cost": [0, 0, 0], "full_cost": [2353131, 263, 9011]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2367234, 243, 8226], "heuristic_cost": [0, 0, 0], "full_cost": [2367234, 243, 8226]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2410349, 233, 8041], "heuristic_cost": [0, 0, 0], "full_cost": [2410349, 233, 8041]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2472355, 228, 7711], "heuristic_cost": [0, 0, 0], "full_cost": [2472355, 228, 7711]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2483995, 226, 7700], "heuristic_cost": [0, 0, 0], "full_cost": [2483995, 226, 7700]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2490496, 221, 7522], "heuristic_cost": [0, 0, 0], "full_cost": [2490496, 221, 7522]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2498159, 220, 7523], "heuristic_cost": [0, 0, 0], "full_cost": [2498159, 220, 7523]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2502136, 219, 7511], "heuristic_cost": [0, 0, 0], "full_cost": [2502136, 219, 7511]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2520381, 218, 7455], "heuristic_cost": [0, 0, 0], "full_cost": [2520381, 218, 7455]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2524094, 215, 7387], "heuristic_cost": [0, 0, 0], "full_cost": [2524094, 215, 7387]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2528033, 214, 7375], "heuristic_cost": [0, 0, 0], "full_cost": [2528033, 214, 7375]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2539673, 212, 7364], "heuristic_cost": [0, 0, 0], "full_cost": [2539673, 212, 7364]},
+				{"id": 80283, "parent": -1, "cost_until_now": [2548186, 205, 7189], "heuristic_cost": [0, 0, 0], "full_cost": [2548186, 205, 7189]}
+			],
+			"amount_of_solutions": 18,
+			"status": "Success"
+		}
+		,
+	"total_runtime(ms)": 26094
+}
+]
